@@ -1,4 +1,4 @@
-worlds["CCCcraft"] = "C:/xampp/CCCcraft"
+worlds["CCCcraft"] = "C:/Users/plsck/CCCcraft_world"
 
 # POI Filters
 
@@ -10,7 +10,10 @@ def playerIcons(poi):
 
 def signFilter(poi):
     if poi['id'] == 'Sign' or poi['id'] == 'minecraft:sign':
-        return "\n".join([poi['Text1'], poi['Text2'], poi['Text3'], poi['Text4']])
+        if poi['Text1'] == '' and poi['Text2'] == '' and poi['Text3'] == '' and poi['Text4'] == '':
+            return
+        else:
+            return "\n".join([poi['Text1'], poi['Text2'], poi['Text3'], poi['Text4']])
 
 
 def chestFilter(poi):
@@ -29,7 +32,7 @@ renders["survivalday"] = {
     "rendermode": smooth_lighting,
     "dimension": "overworld",
     "markers": [dict(name="All Signs", filterFunction=signFilter),
-                dict(name="Chests",    filterFunction=chestFilter, icon="chest.png"),
+                dict(name="Chests",    filterFunction=chestFilter, icon="images/chest.png"),
                 dict(name="Players",   filterFunction=playerIcons)],
     "northdirection" : "upper-right",
 }
@@ -48,7 +51,7 @@ renders["survivalnether"] = {
     "rendermode": nether_smooth_lighting,
     "dimension": "nether",
     "markers": [dict(name="All Signs", filterFunction=signFilter),
-                dict(name="Chests",    filterFunction=chestFilter, icon="chest.png"),
+                dict(name="Chests",    filterFunction=chestFilter, icon="images/chest.png"),
                 dict(name="Players",   filterFunction=playerIcons)],
     "northdirection" : "upper-right",
 }
@@ -59,9 +62,9 @@ renders["survivaltheend"] = {
     "rendermode": end_smooth_lighting,
     "dimension": "end",
     "markers": [dict(name="All Signs", filterFunction=signFilter),
-                dict(name="Chests",    filterFunction=chestFilter, icon="chest.png"),
+                dict(name="Chests",    filterFunction=chestFilter, icon="images/chest.png"),
                 dict(name="Players",   filterFunction=playerIcons)],
     "northdirection" : "upper-right",
 }
 
-outputdir = "C:/xampp/htdocs/CCCcraft2/"
+outputdir = "C:/Users/plsck/PhpstormProjects/CCCcraft"

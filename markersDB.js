@@ -1,105 +1,49 @@
 var markersDB={
-  "All_Signseab7_03f0": {
+  "All_Signsb652_24cd": {
     "created": false,
     "name": "All Signs",
     "raw": [
       {
-        "hovertext": "\nAnneTrue's\nEnder Lodge\n",
-        "text": "\nAnneTrue's\nEnder Lodge\n",
-        "x": 348,
-        "y": 65,
-        "z": 1156
-      },
-      {
-        "hovertext": "\n\n\nMisc.",
-        "text": "\n\n\nMisc.",
-        "x": 366,
-        "y": 54,
-        "z": 1145
-      },
-      {
-        "hovertext": "\n\n\nEnd Stone",
-        "text": "\n\n\nEnd Stone",
-        "x": 367,
-        "y": 54,
-        "z": 1145
-      },
-      {
-        "hovertext": "\n\n\nRedstone stuff",
-        "text": "\n\n\nRedstone stuff",
-        "x": 367,
-        "y": 54,
-        "z": 1146
-      },
-      {
-        "hovertext": "\n\nStone Brick\nCobblestone",
-        "text": "\n\nStone Brick\nCobblestone",
-        "x": 367,
-        "y": 54,
-        "z": 1147
-      },
-      {
-        "hovertext": "\n\nNether supplies\n",
-        "text": "\n\nNether supplies\n",
-        "x": 367,
-        "y": 54,
-        "z": 1148
-      },
-      {
-        "hovertext": "\nThe End Town\nWelcomes you!\n",
-        "text": "\nThe End Town\nWelcomes you!\n",
-        "x": 365,
+        "hovertext": "\nTo the End\nFollow the bridge\n",
+        "text": "\nTo the End\nFollow the bridge\n",
+        "x": 20,
         "y": 52,
-        "z": 1141
+        "z": 123
       },
       {
-        "hovertext": "\n\n\nEdible Food",
-        "text": "\n\n\nEdible Food",
-        "x": 367,
-        "y": 54,
-        "z": 1153
+        "hovertext": "Thenixon's \nNether \nPortal\n",
+        "text": "Thenixon's \nNether \nPortal\n",
+        "x": -112,
+        "y": 80,
+        "z": 16
       },
       {
-        "hovertext": "\n\n\nRaw Food",
-        "text": "\n\n\nRaw Food",
-        "x": 367,
-        "y": 54,
-        "z": 1154
+        "hovertext": "aaaaaaaaaaaaaaa\naaaaaaaaaaaaaaa\naaaaaaaaaaaaaaa\naaaaaaaaaaaah!!!!!",
+        "text": "aaaaaaaaaaaaaaa\naaaaaaaaaaaaaaa\naaaaaaaaaaaaaaa\naaaaaaaaaaaah!!!!!",
+        "x": -25,
+        "y": 52,
+        "z": 99
       },
       {
-        "hovertext": "Saplings\nSticks\n\n",
-        "text": "Saplings\nSticks\n\n",
-        "x": 368,
-        "y": 57,
-        "z": 1154
-      },
-      {
-        "hovertext": "Logs\n\n\n",
-        "text": "Logs\n\n\n",
-        "x": 370,
-        "y": 57,
-        "z": 1154
-      },
-      {
-        "hovertext": "\nAxes\n\n",
-        "text": "\nAxes\n\n",
-        "x": 372,
-        "y": 57,
-        "z": 1154
-      },
-      {
-        "hovertext": "Damaged Axes\n\n\n",
-        "text": "Damaged Axes\n\n\n",
-        "x": 372,
-        "y": 56,
-        "z": 1154
+        "hovertext": "Towards\nthe\nEnd Stronghold\n(Follow torches)",
+        "text": "Towards\nthe\nEnd Stronghold\n(Follow torches)",
+        "x": -11,
+        "y": 51,
+        "z": 112
       }
     ]
   },
-  "All_Signseab7_2336": {
+  "All_Signsb652_7280": {
     "created": false,
     "name": "All Signs",
     "raw": [
+      {
+        "hovertext": "Nice place!\nWe bring gifts\n\nPay it forward!",
+        "text": "Nice place!\nWe bring gifts\n\nPay it forward!",
+        "x": -880,
+        "y": 72,
+        "z": -2929
+      },
       {
         "hovertext": "Soreen's\nMine\nHANDS OFF\nIT'S MINE!!!",
         "text": "Soreen's\nMine\nHANDS OFF\nIT'S MINE!!!",
@@ -115,11 +59,333 @@ var markersDB={
         "z": 31
       },
       {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 26,
+        "z": 4
+      },
+      {
+        "hovertext": "w\n\n\n",
+        "text": "w\n\n\n",
+        "x": 31,
+        "y": 26,
+        "z": 5
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 26,
+        "z": 6
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 26,
+        "z": 7
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 26,
+        "z": 8
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 26,
+        "z": 9
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 20,
+        "z": 4
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 26,
+        "z": 10
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 20,
+        "z": 5
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 26,
+        "z": 11
+      },
+      {
+        "hovertext": "w\n\n\n",
+        "text": "w\n\n\n",
+        "x": 31,
+        "y": 20,
+        "z": 6
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 20,
+        "z": 7
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 20,
+        "z": 8
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 20,
+        "z": 9
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 20,
+        "z": 10
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 20,
+        "z": 11
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 23,
+        "z": 4
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 23,
+        "z": 5
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 23,
+        "z": 6
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 23,
+        "z": 7
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 23,
+        "z": 8
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 23,
+        "z": 9
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 17,
+        "z": 4
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 23,
+        "z": 10
+      },
+      {
+        "hovertext": "s\n\n\n",
+        "text": "s\n\n\n",
+        "x": 31,
+        "y": 17,
+        "z": 5
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 23,
+        "z": 11
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 17,
+        "z": 6
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 17,
+        "z": 7
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 17,
+        "z": 8
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 17,
+        "z": 9
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 17,
+        "z": 10
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 31,
+        "y": 17,
+        "z": 11
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 28,
+        "y": 17,
+        "z": 21
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 30,
+        "y": 15,
+        "z": 20
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 29,
+        "y": 15,
+        "z": 21
+      },
+      {
         "hovertext": "SLIME FARM\n||\n||\n\\/",
         "text": "SLIME FARM\n||\n||\n\\/",
         "x": 20,
         "y": 63,
         "z": 29
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 24,
+        "y": 14,
+        "z": 18
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 26,
+        "y": 18,
+        "z": 23
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 19,
+        "y": 16,
+        "z": 29
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 19,
+        "y": 14,
+        "z": 27
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 26,
+        "y": 18,
+        "z": 24
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 26,
+        "y": 18,
+        "z": 25
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 30,
+        "y": 16,
+        "z": 20
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 29,
+        "y": 16,
+        "z": 21
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 30,
+        "y": 14,
+        "z": 20
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 29,
+        "y": 14,
+        "z": 21
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 24,
+        "y": 15,
+        "z": 18
       },
       {
         "hovertext": "\nSLIME SPAWN\nAREA\n--->",
@@ -129,11 +395,410 @@ var markersDB={
         "z": 27
       },
       {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 19,
+        "y": 15,
+        "z": 27
+      },
+      {
         "hovertext": "SLIME FARM\n\n<---\n",
         "text": "SLIME FARM\n\n<---\n",
         "x": 17,
         "y": 65,
         "z": 32
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 32,
+        "y": 26,
+        "z": 4
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 26,
+        "z": 4
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 30,
+        "z": 9
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 34,
+        "y": 30,
+        "z": 10
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 35,
+        "y": 30,
+        "z": 10
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 32,
+        "y": 20,
+        "z": 4
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 36,
+        "y": 30,
+        "z": 10
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 20,
+        "z": 4
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 32,
+        "y": 26,
+        "z": 12
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 32,
+        "y": 20,
+        "z": 12
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 34,
+        "y": 12,
+        "z": 6
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 12,
+        "z": 7
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 35,
+        "y": 12,
+        "z": 6
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 36,
+        "y": 12,
+        "z": 6
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 34,
+        "y": 10,
+        "z": 6
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 35,
+        "y": 10,
+        "z": 6
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 34,
+        "y": 12,
+        "z": 10
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 36,
+        "y": 10,
+        "z": 6
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 35,
+        "y": 12,
+        "z": 10
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 36,
+        "y": 12,
+        "z": 10
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 29,
+        "z": 5
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 29,
+        "z": 6
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 34,
+        "y": 29,
+        "z": 5
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 29,
+        "z": 7
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 35,
+        "y": 29,
+        "z": 5
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 29,
+        "z": 8
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 36,
+        "y": 29,
+        "z": 5
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 29,
+        "z": 9
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 32,
+        "y": 23,
+        "z": 4
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 29,
+        "z": 10
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 34,
+        "y": 29,
+        "z": 9
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 23,
+        "z": 4
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 29,
+        "z": 11
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 35,
+        "y": 29,
+        "z": 9
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 29,
+        "z": 12
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 36,
+        "y": 29,
+        "z": 9
+      },
+      {
+        "hovertext": "s\n\n\n",
+        "text": "s\n\n\n",
+        "x": 33,
+        "y": 29,
+        "z": 13
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 29,
+        "z": 14
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 32,
+        "y": 17,
+        "z": 4
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 29,
+        "z": 15
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 17,
+        "z": 4
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 32,
+        "y": 23,
+        "z": 12
+      },
+      {
+        "hovertext": "a\n\n\n",
+        "text": "a\n\n\n",
+        "x": 32,
+        "y": 17,
+        "z": 12
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 13,
+        "z": 7
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 11,
+        "z": 7
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 34,
+        "y": 11,
+        "z": 6
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 35,
+        "y": 11,
+        "z": 6
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 36,
+        "y": 11,
+        "z": 6
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 22,
+        "z": 23
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 34,
+        "y": 23,
+        "z": 23
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 22,
+        "z": 24
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 35,
+        "y": 23,
+        "z": 23
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 22,
+        "z": 25
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 36,
+        "y": 23,
+        "z": 23
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 29,
+        "z": 16
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 33,
+        "y": 29,
+        "z": 17
       },
       {
         "hovertext": "\nWest\n\n",
@@ -148,6 +813,27 @@ var markersDB={
         "x": 1056,
         "y": 253,
         "z": 1178
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -566,
+        "y": 43,
+        "z": -250
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -569,
+        "y": 55,
+        "z": -251
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -566,
+        "y": 43,
+        "z": -248
       },
       {
         "hovertext": "\n<----\n---->\n",
@@ -171,11 +857,95 @@ var markersDB={
         "z": -113
       },
       {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -201,
+        "y": 64,
+        "z": -285
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -201,
+        "y": 65,
+        "z": -285
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -202,
+        "y": 64,
+        "z": -285
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -202,
+        "y": 65,
+        "z": -285
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -198,
+        "y": 63,
+        "z": -215
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -197,
+        "y": 63,
+        "z": -215
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -199,
+        "y": 64,
+        "z": -216
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -198,
+        "y": 64,
+        "z": -216
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -199,
+        "y": 63,
+        "z": -215
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -197,
+        "y": 64,
+        "z": -216
+      },
+      {
         "hovertext": "\nBehold!\nMany gifts!\nPay it forward!",
         "text": "\nBehold!\nMany gifts!\nPay it forward!",
         "x": -180,
         "y": 68,
         "z": -291
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -162,
+        "y": 66,
+        "z": -313
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -162,
+        "y": 66,
+        "z": -314
       },
       {
         "hovertext": "\nTREE FARM\n\n",
@@ -239,6 +1009,27 @@ var markersDB={
         "x": -154,
         "y": 76,
         "z": -259
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -156,
+        "y": 78,
+        "z": -254
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -156,
+        "y": 78,
+        "z": -252
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -156,
+        "y": 79,
+        "z": -254
       },
       {
         "hovertext": "Please try not\nto break this\ncrazy sand cliff\nthanks",
@@ -444,8 +1235,8 @@ var markersDB={
         "z": -255
       },
       {
-        "hovertext": "\nSaplings\n\n",
-        "text": "\nSaplings\n\n",
+        "hovertext": "\nOCEAN MONUMENT\nBLOCKS\n",
+        "text": "\nOCEAN MONUMENT\nBLOCKS\n",
         "x": -138,
         "y": 88,
         "z": -246
@@ -703,11 +1494,25 @@ var markersDB={
         "z": -268
       },
       {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -126,
+        "y": 16,
+        "z": -257
+      },
+      {
         "hovertext": "\nest. 2021/01/16\n\n",
         "text": "\nest. 2021/01/16\n\n",
         "x": -119,
         "y": 83,
         "z": -248
+      },
+      {
+        "hovertext": "\nTo plscks'\nmines\n--->",
+        "text": "\nTo plscks'\nmines\n--->",
+        "x": -123,
+        "y": 15,
+        "z": -256
       },
       {
         "hovertext": "\nplscks'\nhumble\nhome",
@@ -717,11 +1522,53 @@ var markersDB={
         "z": -245
       },
       {
+        "hovertext": "TO thenixon's\nHOUSE\n\n",
+        "text": "TO thenixon's\nHOUSE\n\n",
+        "x": -126,
+        "y": 16,
+        "z": -251
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -128,
+        "y": 16,
+        "z": -256
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -128,
+        "y": 15,
+        "z": -256
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -128,
+        "y": 14,
+        "z": -256
+      },
+      {
+        "hovertext": "plscks' house\n/\\\n|\n|",
+        "text": "plscks' house\n/\\\n|\n|",
+        "x": -127,
+        "y": 16,
+        "z": -255
+      },
+      {
         "hovertext": "TRASH\nCOMPACTOR\n<---\n",
         "text": "TRASH\nCOMPACTOR\n<---\n",
         "x": -105,
         "y": 65,
         "z": -286
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -103,
+        "y": 63,
+        "z": -283
       },
       {
         "hovertext": "PLEASE THROW\nEXCESS GREEN\nDYE IN TRASH\nCOMPACTOR: LEFT",
@@ -850,6 +1697,20 @@ var markersDB={
         "z": -188
       },
       {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -66,
+        "y": 65,
+        "z": -60
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -66,
+        "y": 66,
+        "z": -60
+      },
+      {
         "hovertext": "\nENCHANTED\nTOOLS\n",
         "text": "\nENCHANTED\nTOOLS\n",
         "x": -59,
@@ -913,8 +1774,22 @@ var markersDB={
         "z": -92
       },
       {
-        "hovertext": "\nFREE POPPY\n\n",
-        "text": "\nFREE POPPY\n\n",
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -63,
+        "y": 86,
+        "z": -65
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -64,
+        "y": 86,
+        "z": -65
+      },
+      {
+        "hovertext": "\nFREE IRON\n\n",
+        "text": "\nFREE IRON\n\n",
         "x": -63,
         "y": 85,
         "z": -59
@@ -925,6 +1800,41 @@ var markersDB={
         "x": -63,
         "y": 85,
         "z": -61
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -63,
+        "y": 86,
+        "z": -63
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -64,
+        "y": 86,
+        "z": -63
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -63,
+        "y": 86,
+        "z": -64
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -64,
+        "y": 86,
+        "z": -64
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -63,
+        "y": 68,
+        "z": -60
       },
       {
         "hovertext": "\nIron\n\n",
@@ -983,6 +1893,13 @@ var markersDB={
         "z": -261
       },
       {
+        "hovertext": "Thenixon's Base\nFollow dirt path\nthru Nether\n",
+        "text": "Thenixon's Base\nFollow dirt path\nthru Nether\n",
+        "x": -44,
+        "y": 63,
+        "z": -105
+      },
+      {
         "hovertext": "AnTrue's Tower:\nThrough the\nportal, follow\nthe torches",
         "text": "AnTrue's Tower:\nThrough the\nportal, follow\nthe torches",
         "x": -45,
@@ -1039,6 +1956,216 @@ var markersDB={
         "z": -1705
       },
       {
+        "hovertext": "\nLIGHT GRAY SHEEP\n\n",
+        "text": "\nLIGHT GRAY SHEEP\n\n",
+        "x": -947,
+        "y": 79,
+        "z": 103
+      },
+      {
+        "hovertext": "\nMAGENTA SHEEP\n\n",
+        "text": "\nMAGENTA SHEEP\n\n",
+        "x": -945,
+        "y": 79,
+        "z": 103
+      },
+      {
+        "hovertext": "\nYELLOW SHEEP\n\n",
+        "text": "\nYELLOW SHEEP\n\n",
+        "x": -943,
+        "y": 79,
+        "z": 103
+      },
+      {
+        "hovertext": "\nPURPLE SHEEP\n\n",
+        "text": "\nPURPLE SHEEP\n\n",
+        "x": -941,
+        "y": 79,
+        "z": 103
+      },
+      {
+        "hovertext": "\nRED SHEEP\n\n",
+        "text": "\nRED SHEEP\n\n",
+        "x": -939,
+        "y": 79,
+        "z": 103
+      },
+      {
+        "hovertext": "White Sheep\n\n\n",
+        "text": "White Sheep\n\n\n",
+        "x": -937,
+        "y": 79,
+        "z": 103
+      },
+      {
+        "hovertext": "\nMAGENTA SHEEP\n\n",
+        "text": "\nMAGENTA SHEEP\n\n",
+        "x": -935,
+        "y": 79,
+        "z": 103
+      },
+      {
+        "hovertext": "\nORANGE SHEEP\n\n",
+        "text": "\nORANGE SHEEP\n\n",
+        "x": -933,
+        "y": 79,
+        "z": 103
+      },
+      {
+        "hovertext": "\nBLUE SHEEP\n\n",
+        "text": "\nBLUE SHEEP\n\n",
+        "x": -931,
+        "y": 79,
+        "z": 103
+      },
+      {
+        "hovertext": "\nWHITE SHEEP\n\n",
+        "text": "\nWHITE SHEEP\n\n",
+        "x": -929,
+        "y": 79,
+        "z": 103
+      },
+      {
+        "hovertext": "Tower for sniping\n\n\n",
+        "text": "Tower for sniping\n\n\n",
+        "x": -941,
+        "y": 78,
+        "z": 118
+      },
+      {
+        "hovertext": "Need Something\nto do here.\n\n",
+        "text": "Need Something\nto do here.\n\n",
+        "x": -941,
+        "y": 79,
+        "z": 118
+      },
+      {
+        "hovertext": "wwwwwwwwww\n\n\n",
+        "text": "wwwwwwwwww\n\n\n",
+        "x": -942,
+        "y": 71,
+        "z": 156
+      },
+      {
+        "hovertext": "Consenting\nAdults\n(do not let out)\n",
+        "text": "Consenting\nAdults\n(do not let out)\n",
+        "x": -940,
+        "y": 75,
+        "z": 156
+      },
+      {
+        "hovertext": "\nEXCESS WOOL\n\n",
+        "text": "\nEXCESS WOOL\n\n",
+        "x": -928,
+        "y": 78,
+        "z": 110
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -927,
+        "y": 78,
+        "z": 106
+      },
+      {
+        "hovertext": "Thenixon's \nNether\nPortal\n",
+        "text": "Thenixon's \nNether\nPortal\n",
+        "x": -928,
+        "y": 79,
+        "z": 116
+      },
+      {
+        "hovertext": "Zombie cure\nin\nprogress!\n",
+        "text": "Zombie cure\nin\nprogress!\n",
+        "x": -916,
+        "y": 69,
+        "z": 120
+      },
+      {
+        "hovertext": "Up\nFrom\nBelow\n",
+        "text": "Up\nFrom\nBelow\n",
+        "x": -902,
+        "y": 82,
+        "z": 142
+      },
+      {
+        "hovertext": "e\n\n\n",
+        "text": "e\n\n\n",
+        "x": -901,
+        "y": 15,
+        "z": 142
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -902,
+        "y": 15,
+        "z": 143
+      },
+      {
+        "hovertext": "e\n\n\n",
+        "text": "e\n\n\n",
+        "x": -901,
+        "y": 14,
+        "z": 142
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -902,
+        "y": 14,
+        "z": 143
+      },
+      {
+        "hovertext": "e\n\n\n",
+        "text": "e\n\n\n",
+        "x": -901,
+        "y": 16,
+        "z": 142
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -902,
+        "y": 16,
+        "z": 143
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -902,
+        "y": 17,
+        "z": 144
+      },
+      {
+        "hovertext": "\nTo plscks'house\n\n",
+        "text": "\nTo plscks'house\n\n",
+        "x": -897,
+        "y": 15,
+        "z": 146
+      },
+      {
+        "hovertext": "Down to\nICEROAD\n& plscks' House\n",
+        "text": "Down to\nICEROAD\n& plscks' House\n",
+        "x": -902,
+        "y": 82,
+        "z": 144
+      },
+      {
+        "hovertext": "\n\nFuels\n",
+        "text": "\n\nFuels\n",
+        "x": -894,
+        "y": 81,
+        "z": 151
+      },
+      {
+        "hovertext": "Thenixon's Fishin'\nPier\n\n",
+        "text": "Thenixon's Fishin'\nPier\n\n",
+        "x": -861,
+        "y": 64,
+        "z": 218
+      },
+      {
         "hovertext": "THIS DELIGHTFUL\nISLAND HAS BEEN\nCLAIMED BY\nplscks",
         "text": "THIS DELIGHTFUL\nISLAND HAS BEEN\nCLAIMED BY\nplscks",
         "x": -1413,
@@ -1067,11 +2194,46 @@ var markersDB={
         "z": 1416
       },
       {
+        "hovertext": "\nGood Enchant\nBooks\n",
+        "text": "\nGood Enchant\nBooks\n",
+        "x": 169,
+        "y": 56,
+        "z": 1411
+      },
+      {
+        "hovertext": "Repairing Supply\n(Iron, Diamonds,\nGold, etc.)\n",
+        "text": "Repairing Supply\n(Iron, Diamonds,\nGold, etc.)\n",
+        "x": 165,
+        "y": 56,
+        "z": 1411
+      },
+      {
+        "hovertext": "\nJunky\nEnchants\n",
+        "text": "\nJunky\nEnchants\n",
+        "x": 169,
+        "y": 56,
+        "z": 1419
+      },
+      {
+        "hovertext": "\nEnchanting\nSupplies\n",
+        "text": "\nEnchanting\nSupplies\n",
+        "x": 165,
+        "y": 56,
+        "z": 1419
+      },
+      {
         "hovertext": "I.O.U.\n1/2 stack cobble\n\n--plscks",
         "text": "I.O.U.\n1/2 stack cobble\n\n--plscks",
         "x": 183,
         "y": 47,
         "z": 1423
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 245,
+        "y": 36,
+        "z": 1386
       },
       {
         "hovertext": "\nCrooked\nPath Ahead\n",
@@ -1088,11 +2250,32 @@ var markersDB={
         "z": 885
       },
       {
+        "hovertext": "\nTo plscks'\nIce farm!\n",
+        "text": "\nTo plscks'\nIce farm!\n",
+        "x": -224,
+        "y": 71,
+        "z": 373
+      },
+      {
+        "hovertext": "\nTo gold farm\nand ice farm\n",
+        "text": "\nTo gold farm\nand ice farm\n",
+        "x": -17,
+        "y": 69,
+        "z": 50
+      },
+      {
         "hovertext": "there is a dark\ncavern behind\nhere - proceed\nwith caution",
         "text": "there is a dark\ncavern behind\nhere - proceed\nwith caution",
         "x": -1051,
         "y": 13,
         "z": -2940
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 5,
+        "y": 17,
+        "z": -335
       },
       {
         "hovertext": "THIS WAY <--\n\n\n",
@@ -1123,6 +2306,13 @@ var markersDB={
         "z": -204
       },
       {
+        "hovertext": "Casa De Thenixon\n\n\n",
+        "text": "Casa De Thenixon\n\n\n",
+        "x": 441,
+        "y": 63,
+        "z": -170
+      },
+      {
         "hovertext": "\n<----\n---->\n",
         "text": "\n<----\n---->\n",
         "x": 515,
@@ -1131,355 +2321,1986 @@ var markersDB={
       }
     ]
   },
-  "All_Signseab7_a282": {
+  "All_Signsb652_fb8f": {
     "created": false,
     "name": "All Signs",
     "raw": [
       {
-        "hovertext": "\nTo the End\nFollow the bridge\n",
-        "text": "\nTo the End\nFollow the bridge\n",
-        "x": 20,
-        "y": 52,
-        "z": 123
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 1,
+        "y": 61,
+        "z": 504
       },
       {
-        "hovertext": "aaaaaaaaaaaaaaa\naaaaaaaaaaaaaaa\naaaaaaaaaaaaaaa\naaaaaaaaaaaah!!!!!",
-        "text": "aaaaaaaaaaaaaaa\naaaaaaaaaaaaaaa\naaaaaaaaaaaaaaa\naaaaaaaaaaaah!!!!!",
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 3,
+        "y": 63,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 5,
+        "y": 65,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 7,
+        "y": 67,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 9,
+        "y": 69,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 11,
+        "y": 71,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 0,
+        "y": 61,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 2,
+        "y": 63,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 4,
+        "y": 65,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 6,
+        "y": 67,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 8,
+        "y": 69,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 10,
+        "y": 71,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 12,
+        "y": 73,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 1,
+        "y": 63,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 3,
+        "y": 65,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 5,
+        "y": 67,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 7,
+        "y": 69,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 9,
+        "y": 71,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 11,
+        "y": 73,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 0,
+        "y": 60,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 2,
+        "y": 62,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 4,
+        "y": 64,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 6,
+        "y": 66,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 8,
+        "y": 68,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 10,
+        "y": 70,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 12,
+        "y": 72,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 1,
+        "y": 62,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 3,
+        "y": 64,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 5,
+        "y": 66,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 7,
+        "y": 68,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 9,
+        "y": 70,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 11,
+        "y": 72,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 0,
+        "y": 62,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 2,
+        "y": 64,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 4,
+        "y": 66,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 6,
+        "y": 68,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 8,
+        "y": 70,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 10,
+        "y": 72,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": 12,
+        "y": 74,
+        "z": 504
+      },
+      {
+        "hovertext": "\nAnneTrue's\nEnder Lodge\n",
+        "text": "\nAnneTrue's\nEnder Lodge\n",
+        "x": 348,
+        "y": 65,
+        "z": 1156
+      },
+      {
+        "hovertext": "\n\n\nMisc.",
+        "text": "\n\n\nMisc.",
+        "x": 366,
+        "y": 54,
+        "z": 1145
+      },
+      {
+        "hovertext": "\n\n\nEnd Stone",
+        "text": "\n\n\nEnd Stone",
+        "x": 367,
+        "y": 54,
+        "z": 1145
+      },
+      {
+        "hovertext": "\n\n\nRedstone stuff",
+        "text": "\n\n\nRedstone stuff",
+        "x": 367,
+        "y": 54,
+        "z": 1146
+      },
+      {
+        "hovertext": "\n\nStone Brick\nCobblestone",
+        "text": "\n\nStone Brick\nCobblestone",
+        "x": 367,
+        "y": 54,
+        "z": 1147
+      },
+      {
+        "hovertext": "\n\nNether supplies\n",
+        "text": "\n\nNether supplies\n",
+        "x": 367,
+        "y": 54,
+        "z": 1148
+      },
+      {
+        "hovertext": "\nThe End Town\nWelcomes you!\n",
+        "text": "\nThe End Town\nWelcomes you!\n",
+        "x": 365,
+        "y": 52,
+        "z": 1141
+      },
+      {
+        "hovertext": "\n\n\nEdible Food",
+        "text": "\n\n\nEdible Food",
+        "x": 367,
+        "y": 54,
+        "z": 1153
+      },
+      {
+        "hovertext": "\n\n\nRaw Food",
+        "text": "\n\n\nRaw Food",
+        "x": 367,
+        "y": 54,
+        "z": 1154
+      },
+      {
+        "hovertext": "Saplings\nSticks\n\n",
+        "text": "Saplings\nSticks\n\n",
+        "x": 368,
+        "y": 57,
+        "z": 1154
+      },
+      {
+        "hovertext": "Logs\n\n\n",
+        "text": "Logs\n\n\n",
+        "x": 370,
+        "y": 57,
+        "z": 1154
+      },
+      {
+        "hovertext": "\nAxes\n\n",
+        "text": "\nAxes\n\n",
+        "x": 372,
+        "y": 57,
+        "z": 1154
+      },
+      {
+        "hovertext": "Damaged Axes\n\n\n",
+        "text": "Damaged Axes\n\n\n",
+        "x": 372,
+        "y": 56,
+        "z": 1154
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -27,
+        "y": 33,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -17,
+        "y": 43,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -19,
+        "y": 41,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -21,
+        "y": 39,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -23,
+        "y": 37,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
         "x": -25,
-        "y": 52,
-        "z": 99
+        "y": 35,
+        "z": 504
       },
       {
-        "hovertext": "Towards\nthe\nEnd Stronghold\n(Follow torches)",
-        "text": "Towards\nthe\nEnd Stronghold\n(Follow torches)",
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -28,
+        "y": 33,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -18,
+        "y": 43,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -20,
+        "y": 41,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -22,
+        "y": 39,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -24,
+        "y": 37,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -26,
+        "y": 35,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -29,
+        "y": 33,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -17,
+        "y": 45,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -19,
+        "y": 43,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -21,
+        "y": 41,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -23,
+        "y": 39,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -25,
+        "y": 37,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -27,
+        "y": 35,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -18,
+        "y": 42,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -20,
+        "y": 40,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -22,
+        "y": 38,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -24,
+        "y": 36,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -17,
+        "y": 44,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -19,
+        "y": 42,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -21,
+        "y": 40,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -23,
+        "y": 38,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -25,
+        "y": 36,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -18,
+        "y": 44,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -20,
+        "y": 42,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -22,
+        "y": 40,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -24,
+        "y": 38,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -26,
+        "y": 36,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -7,
+        "y": 53,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -9,
+        "y": 51,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -11,
+        "y": 49,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -13,
+        "y": 47,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -15,
+        "y": 45,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -5,
+        "y": 55,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -3,
+        "y": 57,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -1,
+        "y": 59,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -8,
+        "y": 53,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -10,
+        "y": 51,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -12,
+        "y": 49,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -14,
+        "y": 47,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -16,
+        "y": 45,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -6,
+        "y": 55,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -4,
+        "y": 57,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -2,
+        "y": 59,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -9,
+        "y": 53,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
         "x": -11,
         "y": 51,
-        "z": 112
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -13,
+        "y": 49,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -15,
+        "y": 47,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -7,
+        "y": 55,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -5,
+        "y": 57,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -3,
+        "y": 59,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -1,
+        "y": 61,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -6,
+        "y": 54,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -8,
+        "y": 52,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -10,
+        "y": 50,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -12,
+        "y": 48,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -14,
+        "y": 46,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -16,
+        "y": 44,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -4,
+        "y": 56,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -2,
+        "y": 58,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -7,
+        "y": 54,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -9,
+        "y": 52,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -11,
+        "y": 50,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -13,
+        "y": 48,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -15,
+        "y": 46,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -5,
+        "y": 56,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -3,
+        "y": 58,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -1,
+        "y": 60,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -8,
+        "y": 54,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -10,
+        "y": 52,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -12,
+        "y": 50,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -14,
+        "y": 48,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -16,
+        "y": 46,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -6,
+        "y": 56,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -4,
+        "y": 58,
+        "z": 504
+      },
+      {
+        "hovertext": "\n\n\n",
+        "text": "\n\n\n",
+        "x": -2,
+        "y": 60,
+        "z": 504
       }
     ]
   },
-  "Chests1541_03f0": {
+  "Chests49b7_24cd": {
     "created": false,
     "name": "Chests",
     "raw": [
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 952,
-        "y": 118,
-        "z": 1637
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 952,
-        "y": 142,
-        "z": 1674
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 980,
-        "y": 118,
-        "z": 1599
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 984,
-        "y": 114,
-        "z": 1631
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 986,
-        "y": 114,
-        "z": 1633
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 1022,
-        "y": 136,
-        "z": 1638
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 1022,
-        "y": 136,
-        "z": 1640
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 1020,
-        "y": 138,
-        "z": 1672
-      },
-      {
-        "hovertext": "Chest with 14 items",
-        "text": "Chest with 14 items",
-        "x": 355,
-        "y": 60,
-        "z": 1105
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 364,
-        "y": 60,
-        "z": 1133
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 364,
-        "y": 60,
-        "z": 1134
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 364,
-        "y": 60,
-        "z": 1136
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 364,
-        "y": 60,
-        "z": 1137
-      },
-      {
-        "hovertext": "Chest with 2 items",
-        "text": "Chest with 2 items",
-        "x": 352,
-        "y": 63,
-        "z": 1160
-      },
-      {
-        "hovertext": "Chest with 16 items",
-        "text": "Chest with 16 items",
-        "x": 352,
-        "y": 63,
-        "z": 1159
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 365,
-        "y": 50,
-        "z": 1154
-      },
-      {
-        "hovertext": "Chest with 18 items",
-        "text": "Chest with 18 items",
-        "x": 365,
-        "y": 50,
-        "z": 1155
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 357,
-        "y": 58,
-        "z": 1170
-      },
-      {
-        "hovertext": "Chest with 9 items",
-        "text": "Chest with 9 items",
-        "x": 356,
-        "y": 58,
-        "z": 1170
-      },
-      {
-        "hovertext": "Chest with 1 items",
-        "text": "Chest with 1 items",
-        "x": 375,
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -34,
         "y": 53,
-        "z": 1150
+        "z": -1510
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 370,
-        "y": 56,
-        "z": 1137
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -32,
+        "y": 60,
+        "z": -1532
       },
       {
-        "hovertext": "Chest with 2 items",
-        "text": "Chest with 2 items",
-        "x": 370,
-        "y": 56,
-        "z": 1138
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -147,
+        "y": 36,
+        "z": 747
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -147,
+        "y": 82,
+        "z": 793
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -145,
+        "y": 82,
+        "z": 791
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -132,
+        "y": 82,
+        "z": 795
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -133,
+        "y": 82,
+        "z": 795
       },
       {
         "hovertext": "Chest with 6 items",
         "text": "Chest with 6 items",
-        "x": 375,
-        "y": 53,
-        "z": 1149
+        "x": -1,
+        "y": 35,
+        "z": 642
       },
       {
-        "hovertext": "Chest with 27 items",
-        "text": "Chest with 27 items",
-        "x": 368,
-        "y": 57,
-        "z": 1155
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 180,
+        "y": 74,
+        "z": 80
       },
       {
-        "hovertext": "Chest with 27 items",
-        "text": "Chest with 27 items",
-        "x": 369,
-        "y": 57,
-        "z": 1155
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 230,
+        "y": 80,
+        "z": 411
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 334,
+        "y": 40,
+        "z": 26
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 335,
+        "y": 40,
+        "z": 26
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 344,
+        "y": 73,
+        "z": 167
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 343,
+        "y": 73,
+        "z": 167
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 348,
+        "y": 73,
+        "z": 167
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 356,
+        "y": 80,
+        "z": 167
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 392,
+        "y": 73,
+        "z": 167
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 391,
+        "y": 73,
+        "z": 167
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 396,
+        "y": 73,
+        "z": 167
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 194,
+        "y": 66,
+        "z": 2120
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 606,
+        "y": 62,
+        "z": -232
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 766,
+        "y": 33,
+        "z": -147
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 763,
+        "y": 72,
+        "z": -133
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 759,
+        "y": 72,
+        "z": -133
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 760,
+        "y": 72,
+        "z": -133
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 758,
+        "y": 38,
+        "z": -135
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 779,
+        "y": 72,
+        "z": -135
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 781,
+        "y": 35,
+        "z": -140
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 775,
+        "y": 72,
+        "z": -135
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 776,
+        "y": 72,
+        "z": -135
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 789,
+        "y": 45,
+        "z": -145
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 789,
+        "y": 33,
+        "z": -145
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 788,
+        "y": 58,
+        "z": -132
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -331,
+        "y": 32,
+        "z": -702
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -227,
+        "y": 36,
+        "z": -1013
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -225,
+        "y": 36,
+        "z": -1013
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -240,
+        "y": 38,
+        "z": -1020
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -227,
+        "y": 82,
+        "z": -967
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -225,
+        "y": 82,
+        "z": -969
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -212,
+        "y": 82,
+        "z": -965
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -213,
+        "y": 82,
+        "z": -965
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 28,
+        "y": 60,
+        "z": -1354
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 38,
+        "y": 67,
+        "z": -1332
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 49,
+        "y": 30,
+        "z": -1086
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 94,
+        "y": 40,
+        "z": 977
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 102,
+        "y": 33,
+        "z": 981
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 107,
+        "y": 40,
+        "z": 1001
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 110,
+        "y": 73,
+        "z": 1017
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 106,
+        "y": 73,
+        "z": 1017
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 105,
+        "y": 73,
+        "z": 1017
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 100,
+        "y": 36,
+        "z": 1014
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 101,
+        "y": 36,
+        "z": 1014
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 120,
+        "y": 69,
+        "z": 1021
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 229,
+        "y": 74,
+        "z": 882
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 516,
+        "y": 33,
+        "z": 230
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 636,
+        "y": 82,
+        "z": 81
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 643,
+        "y": 74,
+        "z": 81
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 689,
+        "y": 68,
+        "z": 113
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 694,
+        "y": 60,
+        "z": 138
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 706,
+        "y": 68,
+        "z": 106
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 706,
+        "y": 68,
+        "z": 123
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -377,
+        "y": 82,
+        "z": -435
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -375,
+        "y": 82,
+        "z": -433
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -379,
+        "y": 82,
+        "z": -420
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -379,
+        "y": 82,
+        "z": -421
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -331,
+        "y": 36,
+        "z": -435
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -320,
+        "y": 59,
+        "z": -445
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -320,
+        "y": 38,
+        "z": -425
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -319,
+        "y": 41,
+        "z": -187
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -212,
+        "y": 69,
+        "z": -2222
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 279,
+        "y": 73,
+        "z": -569
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 278,
+        "y": 73,
+        "z": -569
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 274,
+        "y": 73,
+        "z": -569
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 282,
+        "y": 36,
+        "z": -540
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 285,
+        "y": 40,
+        "z": -532
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 295,
+        "y": 73,
+        "z": -569
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 294,
+        "y": 73,
+        "z": -569
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 300,
+        "y": 36,
+        "z": -566
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 299,
+        "y": 36,
+        "z": -566
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 290,
+        "y": 73,
+        "z": -569
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 292,
+        "y": 33,
+        "z": -535
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 289,
+        "y": 36,
+        "z": -522
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 297,
+        "y": 40,
+        "z": -525
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 314,
+        "y": 40,
+        "z": -554
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 23,
+        "y": 73,
+        "z": -2824
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 23,
+        "y": 73,
+        "z": -2823
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 23,
+        "y": 73,
+        "z": -2828
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 23,
+        "y": 80,
+        "z": -2788
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 23,
+        "y": 73,
+        "z": -2775
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 23,
+        "y": 73,
+        "z": -2776
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 23,
+        "y": 73,
+        "z": -2780
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 97,
+        "y": 68,
+        "z": 1417
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 106,
+        "y": 58,
+        "z": 1421
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 108,
+        "y": 35,
+        "z": 1437
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 102,
+        "y": 58,
+        "z": 1428
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 97,
+        "y": 68,
+        "z": 1449
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 106,
+        "y": 58,
+        "z": 1453
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 115,
+        "y": 33,
+        "z": 1422
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 113,
+        "y": 45,
+        "z": 1445
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 140,
+        "y": 33,
+        "z": 1418
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 140,
+        "y": 39,
+        "z": 1442
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -268,
+        "y": 79,
+        "z": -1854
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -47,
+        "y": 61,
+        "z": -1565
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -42,
+        "y": 68,
+        "z": -1563
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -25,
+        "y": 68,
+        "z": -1548
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -345,
+        "y": 73,
+        "z": 196
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -345,
+        "y": 73,
+        "z": 200
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -345,
+        "y": 73,
+        "z": 201
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -345,
+        "y": 80,
+        "z": 236
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -341,
+        "y": 69,
+        "z": 249
       },
       {
         "hovertext": "Chest with 13 items",
         "text": "Chest with 13 items",
-        "x": 370,
-        "y": 57,
-        "z": 1155
-      },
-      {
-        "hovertext": "Chest with 27 items",
-        "text": "Chest with 27 items",
-        "x": 371,
-        "y": 57,
-        "z": 1155
+        "x": -34,
+        "y": 192,
+        "z": 119
       },
       {
         "hovertext": "Chest with 0 items",
         "text": "Chest with 0 items",
-        "x": 372,
-        "y": 57,
-        "z": 1155
+        "x": -35,
+        "y": 192,
+        "z": 120
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -34,
+        "y": 193,
+        "z": 120
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -35,
+        "y": 193,
+        "z": 121
+      },
+      {
+        "hovertext": "Chest with 11 items",
+        "text": "Chest with 11 items",
+        "x": -35,
+        "y": 192,
+        "z": 119
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -35,
+        "y": 193,
+        "z": 120
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -33,
+        "y": 192,
+        "z": 120
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -33,
+        "y": 193,
+        "z": 121
       },
       {
         "hovertext": "Chest with 14 items",
         "text": "Chest with 14 items",
-        "x": 373,
-        "y": 57,
-        "z": 1155
-      },
-      {
-        "hovertext": "Chest with 20 items",
-        "text": "Chest with 20 items",
-        "x": 373,
-        "y": 56,
-        "z": 1155
+        "x": -33,
+        "y": 192,
+        "z": 119
       },
       {
         "hovertext": "Chest with 0 items",
         "text": "Chest with 0 items",
-        "x": 376,
-        "y": 50,
-        "z": 1154
+        "x": -34,
+        "y": 192,
+        "z": 120
       },
       {
         "hovertext": "Chest with 0 items",
         "text": "Chest with 0 items",
-        "x": 372,
-        "y": 58,
-        "z": 1167
+        "x": -33,
+        "y": 193,
+        "z": 120
       },
       {
         "hovertext": "Chest with 0 items",
         "text": "Chest with 0 items",
-        "x": 376,
-        "y": 50,
-        "z": 1155
+        "x": -34,
+        "y": 193,
+        "z": 121
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 373,
-        "y": 58,
-        "z": 1167
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 7,
+        "y": 82,
+        "z": -355
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 368,
-        "y": 56,
-        "z": 1155
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 9,
+        "y": 82,
+        "z": -353
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 369,
-        "y": 56,
-        "z": 1155
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 5,
+        "y": 82,
+        "z": -340
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 370,
-        "y": 56,
-        "z": 1155
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 5,
+        "y": 82,
+        "z": -341
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 371,
-        "y": 56,
-        "z": 1155
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 37,
+        "y": 38,
+        "z": -364
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 372,
-        "y": 56,
-        "z": 1155
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 41,
+        "y": 38,
+        "z": -341
       },
       {
-        "hovertext": "Chest with 7 items",
-        "text": "Chest with 7 items",
-        "x": 370,
-        "y": 54,
-        "z": 1181
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 37,
+        "y": 59,
+        "z": -344
       },
       {
-        "hovertext": "Chest with 27 items",
-        "text": "Chest with 27 items",
-        "x": 370,
-        "y": 53,
-        "z": 1180
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 53,
+        "y": 36,
+        "z": -355
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 370,
-        "y": 54,
-        "z": 1180
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 53,
+        "y": 36,
+        "z": -353
       },
       {
-        "hovertext": "Chest with 27 items",
-        "text": "Chest with 27 items",
-        "x": 370,
-        "y": 53,
-        "z": 1179
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 61,
+        "y": 59,
+        "z": -341
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": 370,
-        "y": 58,
-        "z": 1191
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 64,
+        "y": 59,
+        "z": -365
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 179,
+        "y": 85,
+        "z": -334
+      },
+      {
+        "hovertext": "Chest with 4 items",
+        "text": "Chest with 4 items",
+        "x": 324,
+        "y": 128,
+        "z": -85
       },
       {
         "hovertext": "Chest with 2 items",
         "text": "Chest with 2 items",
-        "x": 371,
-        "y": 58,
-        "z": 1191
+        "x": 330,
+        "y": 128,
+        "z": -82
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 329,
+        "y": 128,
+        "z": -81
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 330,
+        "y": 128,
+        "z": -81
+      },
+      {
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
+        "x": 329,
+        "y": 128,
+        "z": -82
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 323,
+        "y": 128,
+        "z": -81
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 322,
+        "y": 128,
+        "z": -82
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 323,
+        "y": 128,
+        "z": -82
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 322,
+        "y": 128,
+        "z": -81
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 329,
+        "y": 129,
+        "z": -80
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 330,
+        "y": 129,
+        "z": -80
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 323,
+        "y": 129,
+        "z": -80
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 322,
+        "y": 129,
+        "z": -80
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 226,
+        "y": 35,
+        "z": 1654
       }
     ]
   },
-  "Chests1541_2336": {
+  "Chests49b7_7280": {
     "created": false,
     "name": "Chests",
     "raw": [
@@ -2142,22 +4963,22 @@ var markersDB={
         "z": 1119
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 5 items",
+        "text": "Chest with 5 items",
         "x": -793,
         "y": 48,
         "z": 1089
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 7 items",
+        "text": "Chest with 7 items",
         "x": -788,
         "y": 48,
         "z": 1109
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 5 items",
+        "text": "Chest with 5 items",
         "x": -799,
         "y": 48,
         "z": 1123
@@ -2254,8 +5075,8 @@ var markersDB={
         "z": 1171
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 6 items",
+        "text": "Chest with 6 items",
         "x": -519,
         "y": 60,
         "z": 1145
@@ -2746,9 +5567,198 @@ var markersDB={
       {
         "hovertext": "Chest with 0 items",
         "text": "Chest with 0 items",
+        "x": 153,
+        "y": 60,
+        "z": -1879
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 219,
+        "y": 36,
+        "z": -1746
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 235,
+        "y": 37,
+        "z": -1744
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 224,
+        "y": 37,
+        "z": -1743
+      },
+      {
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
+        "x": 308,
+        "y": 54,
+        "z": -2023
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 309,
+        "y": 54,
+        "z": -2014
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 310,
+        "y": 56,
+        "z": -2008
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 372,
+        "y": 36,
+        "z": -1998
+      },
+      {
+        "hovertext": "Chest with 15 items",
+        "text": "Chest with 15 items",
+        "x": 369,
+        "y": 33,
+        "z": -1808
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 384,
+        "y": 39,
+        "z": -1959
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 388,
+        "y": 44,
+        "z": -1950
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 386,
+        "y": 35,
+        "z": -1850
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 396,
+        "y": 38,
+        "z": -1813
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 400,
+        "y": 38,
+        "z": -1956
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 407,
+        "y": 38,
+        "z": -1956
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 412,
+        "y": 39,
+        "z": -1835
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 421,
+        "y": 39,
+        "z": -1946
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 430,
+        "y": 44,
+        "z": -1950
+      },
+      {
+        "hovertext": "Chest with 8 items",
+        "text": "Chest with 8 items",
+        "x": 423,
+        "y": 40,
+        "z": -1853
+      },
+      {
+        "hovertext": "Chest with 5 items",
+        "text": "Chest with 5 items",
+        "x": 422,
+        "y": 39,
+        "z": -1833
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 424,
+        "y": 40,
+        "z": -1815
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 440,
+        "y": 34,
+        "z": -1979
+      },
+      {
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
+        "x": 441,
+        "y": 57,
+        "z": -1703
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 449,
+        "y": 36,
+        "z": -1967
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 453,
+        "y": 55,
+        "z": -1912
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
         "x": 14,
         "y": 41,
         "z": 399
+      },
+      {
+        "hovertext": "Chest with 24 items",
+        "text": "Chest with 24 items",
+        "x": 23,
+        "y": 13,
+        "z": 22
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 23,
+        "y": 13,
+        "z": 23
       },
       {
         "hovertext": "Chest with 5 items",
@@ -2786,8 +5796,8 @@ var markersDB={
         "z": 45
       },
       {
-        "hovertext": "Chest with 5 items",
-        "text": "Chest with 5 items",
+        "hovertext": "Chest with 4 items",
+        "text": "Chest with 4 items",
         "x": 102,
         "y": 48,
         "z": 80
@@ -2863,8 +5873,8 @@ var markersDB={
         "z": 218
       },
       {
-        "hovertext": "Chest with 14 items",
-        "text": "Chest with 14 items",
+        "hovertext": "Chest with 11 items",
+        "text": "Chest with 11 items",
         "x": 281,
         "y": 63,
         "z": 320
@@ -2980,6 +5990,83 @@ var markersDB={
         "x": 906,
         "y": 21,
         "z": -408
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 748,
+        "y": 40,
+        "z": -2190
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 981,
+        "y": 34,
+        "z": -2088
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 981,
+        "y": 35,
+        "z": -2071
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 977,
+        "y": 56,
+        "z": -2056
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1002,
+        "y": 33,
+        "z": -2088
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1001,
+        "y": 14,
+        "z": -2070
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1000,
+        "y": 39,
+        "z": -2057
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1000,
+        "y": 35,
+        "z": -2057
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1014,
+        "y": 15,
+        "z": -2093
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1016,
+        "y": 31,
+        "z": -2073
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1016,
+        "y": 30,
+        "z": -2059
       },
       {
         "hovertext": "Chest",
@@ -3106,6 +6193,34 @@ var markersDB={
         "x": 1252,
         "y": 27,
         "z": -829
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1319,
+        "y": 15,
+        "z": -770
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1316,
+        "y": 15,
+        "z": -773
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1338,
+        "y": 29,
+        "z": -759
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1342,
+        "y": 29,
+        "z": -759
       },
       {
         "hovertext": "Chest",
@@ -3337,6 +6452,13 @@ var markersDB={
         "x": 1412,
         "y": 31,
         "z": 1257
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1608,
+        "y": 50,
+        "z": -1457
       },
       {
         "hovertext": "Chest",
@@ -4830,8 +7952,8 @@ var markersDB={
         "z": 146
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
         "x": -1194,
         "y": 70,
         "z": 200
@@ -5110,8 +8232,8 @@ var markersDB={
         "z": -1321
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
         "x": 73,
         "y": 60,
         "z": -1271
@@ -5175,6 +8297,76 @@ var markersDB={
       {
         "hovertext": "Chest",
         "text": "Chest",
+        "x": 165,
+        "y": 21,
+        "z": -1260
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 178,
+        "y": 43,
+        "z": -1418
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 179,
+        "y": 41,
+        "z": -1412
+      },
+      {
+        "hovertext": "Chest with 6 items",
+        "text": "Chest with 6 items",
+        "x": 180,
+        "y": 41,
+        "z": -1403
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 184,
+        "y": 49,
+        "z": -1276
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 237,
+        "y": 26,
+        "z": -1441
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 238,
+        "y": 26,
+        "z": -1436
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 284,
+        "y": 13,
+        "z": -1535
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 286,
+        "y": 13,
+        "z": -1535
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 281,
+        "y": 47,
+        "z": -1111
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
         "x": 323,
         "y": 38,
         "z": -1441
@@ -5222,8 +8414,8 @@ var markersDB={
         "z": -1513
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
         "x": 489,
         "y": 46,
         "z": -1447
@@ -5432,6 +8624,104 @@ var markersDB={
         "z": 665
       },
       {
+        "hovertext": "Chest with 3 items",
+        "text": "Chest with 3 items",
+        "x": 718,
+        "y": 64,
+        "z": -1913
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 712,
+        "y": 21,
+        "z": -1889
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 707,
+        "y": 21,
+        "z": -1892
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 735,
+        "y": 39,
+        "z": -1779
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 734,
+        "y": 24,
+        "z": -1762
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 737,
+        "y": 24,
+        "z": -1767
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 797,
+        "y": 38,
+        "z": -1696
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 791,
+        "y": 40,
+        "z": -1695
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 887,
+        "y": 20,
+        "z": -1871
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 964,
+        "y": 26,
+        "z": -1608
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 961,
+        "y": 26,
+        "z": -1605
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 985,
+        "y": 19,
+        "z": -1621
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1004,
+        "y": 37,
+        "z": -1740
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 995,
+        "y": 31,
+        "z": -1607
+      },
+      {
         "hovertext": "Chest",
         "text": "Chest",
         "x": 516,
@@ -5623,6 +8913,62 @@ var markersDB={
       {
         "hovertext": "Chest",
         "text": "Chest",
+        "x": 1331,
+        "y": 33,
+        "z": -2144
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1351,
+        "y": 35,
+        "z": -2144
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1356,
+        "y": 36,
+        "z": -2123
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1359,
+        "y": 42,
+        "z": -2105
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1365,
+        "y": 39,
+        "z": -2138
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1394,
+        "y": 50,
+        "z": -2101
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1397,
+        "y": 49,
+        "z": -2106
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1395,
+        "y": 50,
+        "z": -2090
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
         "x": 1060,
         "y": 37,
         "z": 1993
@@ -5759,6 +9105,34 @@ var markersDB={
         "x": 1439,
         "y": 19,
         "z": 1691
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1502,
+        "y": 11,
+        "z": 16281
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1500,
+        "y": 11,
+        "z": 16278
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1532,
+        "y": 12,
+        "z": 16059
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1533,
+        "y": 54,
+        "z": 16092
       },
       {
         "hovertext": "Chest",
@@ -6433,8 +9807,8 @@ var markersDB={
         "z": -398
       },
       {
-        "hovertext": "Chest with 14 items",
-        "text": "Chest with 14 items",
+        "hovertext": "Chest with 15 items",
+        "text": "Chest with 15 items",
         "x": -370,
         "y": 69,
         "z": -113
@@ -6461,8 +9835,8 @@ var markersDB={
         "z": -276
       },
       {
-        "hovertext": "Chest with 8 items",
-        "text": "Chest with 8 items",
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
         "x": -309,
         "y": 61,
         "z": -225
@@ -6482,29 +9856,29 @@ var markersDB={
         "z": -312
       },
       {
-        "hovertext": "Chest with 5 items",
-        "text": "Chest with 5 items",
+        "hovertext": "Chest with 4 items",
+        "text": "Chest with 4 items",
         "x": -280,
         "y": 53,
         "z": -310
       },
       {
-        "hovertext": "Chest with 10 items",
-        "text": "Chest with 10 items",
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
         "x": -278,
         "y": 53,
         "z": -308
       },
       {
-        "hovertext": "Chest with 13 items",
-        "text": "Chest with 13 items",
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
         "x": -276,
         "y": 53,
         "z": -310
       },
       {
-        "hovertext": "Chest with 16 items",
-        "text": "Chest with 16 items",
+        "hovertext": "Chest with 15 items",
+        "text": "Chest with 15 items",
         "x": -246,
         "y": 68,
         "z": -218
@@ -6524,8 +9898,8 @@ var markersDB={
         "z": -218
       },
       {
-        "hovertext": "Chest with 27 items",
-        "text": "Chest with 27 items",
+        "hovertext": "Chest with 26 items",
+        "text": "Chest with 26 items",
         "x": -246,
         "y": 68,
         "z": -214
@@ -6545,15 +9919,15 @@ var markersDB={
         "z": -289
       },
       {
-        "hovertext": "Chest with 11 items",
-        "text": "Chest with 11 items",
+        "hovertext": "Chest with 14 items",
+        "text": "Chest with 14 items",
         "x": -212,
         "y": 74,
         "z": -300
       },
       {
-        "hovertext": "Chest with 3 items",
-        "text": "Chest with 3 items",
+        "hovertext": "Chest with 14 items",
+        "text": "Chest with 14 items",
         "x": -212,
         "y": 74,
         "z": -288
@@ -6580,8 +9954,8 @@ var markersDB={
         "z": -201
       },
       {
-        "hovertext": "Chest with 18 items",
-        "text": "Chest with 18 items",
+        "hovertext": "Chest with 16 items",
+        "text": "Chest with 16 items",
         "x": -192,
         "y": 73,
         "z": -289
@@ -6608,8 +9982,8 @@ var markersDB={
         "z": -311
       },
       {
-        "hovertext": "Chest with 3 items",
-        "text": "Chest with 3 items",
+        "hovertext": "Chest with 9 items",
+        "text": "Chest with 9 items",
         "x": -161,
         "y": 65,
         "z": -313
@@ -6622,8 +9996,8 @@ var markersDB={
         "z": -314
       },
       {
-        "hovertext": "Chest with 1 items",
-        "text": "Chest with 1 items",
+        "hovertext": "Chest with 7 items",
+        "text": "Chest with 7 items",
         "x": -163,
         "y": 71,
         "z": -270
@@ -6636,8 +10010,8 @@ var markersDB={
         "z": -271
       },
       {
-        "hovertext": "Chest with 21 items",
-        "text": "Chest with 21 items",
+        "hovertext": "Chest with 18 items",
+        "text": "Chest with 18 items",
         "x": -162,
         "y": 71,
         "z": -270
@@ -6741,8 +10115,8 @@ var markersDB={
         "z": -258
       },
       {
-        "hovertext": "Chest with 2 items",
-        "text": "Chest with 2 items",
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
         "x": -154,
         "y": 78,
         "z": -258
@@ -6762,22 +10136,22 @@ var markersDB={
         "z": -258
       },
       {
-        "hovertext": "Chest with 23 items",
-        "text": "Chest with 23 items",
+        "hovertext": "Chest with 20 items",
+        "text": "Chest with 20 items",
         "x": -145,
         "y": 76,
         "z": -249
       },
       {
-        "hovertext": "Chest with 14 items",
-        "text": "Chest with 14 items",
+        "hovertext": "Chest with 19 items",
+        "text": "Chest with 19 items",
         "x": -145,
         "y": 76,
         "z": -248
       },
       {
-        "hovertext": "Chest with 22 items",
-        "text": "Chest with 22 items",
+        "hovertext": "Chest with 19 items",
+        "text": "Chest with 19 items",
         "x": -139,
         "y": 64,
         "z": -317
@@ -6804,22 +10178,15 @@ var markersDB={
         "z": -317
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": -143,
-        "y": 64,
-        "z": -317
-      },
-      {
-        "hovertext": "Chest with 8 items",
-        "text": "Chest with 8 items",
+        "hovertext": "Chest with 11 items",
+        "text": "Chest with 11 items",
         "x": -142,
         "y": 85,
         "z": -257
       },
       {
-        "hovertext": "Chest with 23 items",
-        "text": "Chest with 23 items",
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
         "x": -140,
         "y": 85,
         "z": -259
@@ -6832,8 +10199,8 @@ var markersDB={
         "z": -259
       },
       {
-        "hovertext": "Chest with 23 items",
-        "text": "Chest with 23 items",
+        "hovertext": "Chest with 21 items",
+        "text": "Chest with 21 items",
         "x": -138,
         "y": 85,
         "z": -260
@@ -6846,22 +10213,22 @@ var markersDB={
         "z": -259
       },
       {
-        "hovertext": "Chest with 9 items",
-        "text": "Chest with 9 items",
+        "hovertext": "Chest with 25 items",
+        "text": "Chest with 25 items",
         "x": -142,
         "y": 87,
         "z": -258
       },
       {
-        "hovertext": "Chest with 8 items",
-        "text": "Chest with 8 items",
+        "hovertext": "Chest with 4 items",
+        "text": "Chest with 4 items",
         "x": -140,
         "y": 87,
         "z": -260
       },
       {
-        "hovertext": "Chest with 4 items",
-        "text": "Chest with 4 items",
+        "hovertext": "Chest with 6 items",
+        "text": "Chest with 6 items",
         "x": -142,
         "y": 87,
         "z": -257
@@ -6874,8 +10241,8 @@ var markersDB={
         "z": -259
       },
       {
-        "hovertext": "Chest with 14 items",
-        "text": "Chest with 14 items",
+        "hovertext": "Chest with 22 items",
+        "text": "Chest with 22 items",
         "x": -138,
         "y": 87,
         "z": -260
@@ -6888,15 +10255,15 @@ var markersDB={
         "z": -258
       },
       {
-        "hovertext": "Chest with 27 items",
-        "text": "Chest with 27 items",
+        "hovertext": "Chest with 25 items",
+        "text": "Chest with 25 items",
         "x": -140,
         "y": 85,
         "z": -260
       },
       {
-        "hovertext": "Chest with 9 items",
-        "text": "Chest with 9 items",
+        "hovertext": "Chest with 13 items",
+        "text": "Chest with 13 items",
         "x": -138,
         "y": 86,
         "z": -260
@@ -6916,29 +10283,29 @@ var markersDB={
         "z": -258
       },
       {
-        "hovertext": "Chest with 10 items",
-        "text": "Chest with 10 items",
+        "hovertext": "Chest with 9 items",
+        "text": "Chest with 9 items",
         "x": -142,
         "y": 88,
         "z": -257
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
+        "hovertext": "Chest with 25 items",
+        "text": "Chest with 25 items",
         "x": -142,
         "y": 86,
         "z": -258
       },
       {
-        "hovertext": "Chest with 1 items",
-        "text": "Chest with 1 items",
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
         "x": -140,
         "y": 86,
         "z": -260
       },
       {
-        "hovertext": "Chest with 19 items",
-        "text": "Chest with 19 items",
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
         "x": -142,
         "y": 86,
         "z": -257
@@ -6958,8 +10325,8 @@ var markersDB={
         "z": -252
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
         "x": -142,
         "y": 87,
         "z": -252
@@ -6993,22 +10360,22 @@ var markersDB={
         "z": -251
       },
       {
-        "hovertext": "Chest with 3 items",
-        "text": "Chest with 3 items",
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
         "x": -136,
         "y": 88,
         "z": -247
       },
       {
-        "hovertext": "Chest with 10 items",
-        "text": "Chest with 10 items",
+        "hovertext": "Chest with 14 items",
+        "text": "Chest with 14 items",
         "x": -136,
         "y": 86,
         "z": -248
       },
       {
-        "hovertext": "Chest with 15 items",
-        "text": "Chest with 15 items",
+        "hovertext": "Chest with 11 items",
+        "text": "Chest with 11 items",
         "x": -140,
         "y": 86,
         "z": -244
@@ -7028,15 +10395,15 @@ var markersDB={
         "z": -252
       },
       {
-        "hovertext": "Chest with 24 items",
-        "text": "Chest with 24 items",
+        "hovertext": "Chest with 26 items",
+        "text": "Chest with 26 items",
         "x": -139,
         "y": 90,
         "z": -250
       },
       {
-        "hovertext": "Chest with 8 items",
-        "text": "Chest with 8 items",
+        "hovertext": "Chest with 9 items",
+        "text": "Chest with 9 items",
         "x": -143,
         "y": 86,
         "z": -248
@@ -7049,8 +10416,8 @@ var markersDB={
         "z": -252
       },
       {
-        "hovertext": "Chest with 9 items",
-        "text": "Chest with 9 items",
+        "hovertext": "Chest with 10 items",
+        "text": "Chest with 10 items",
         "x": -142,
         "y": 88,
         "z": -255
@@ -7077,8 +10444,8 @@ var markersDB={
         "z": -251
       },
       {
-        "hovertext": "Chest with 5 items",
-        "text": "Chest with 5 items",
+        "hovertext": "Chest with 15 items",
+        "text": "Chest with 15 items",
         "x": -138,
         "y": 85,
         "z": -244
@@ -7093,34 +10460,27 @@ var markersDB={
       {
         "hovertext": "Chest with 0 items",
         "text": "Chest with 0 items",
-        "x": -136,
-        "y": 79,
-        "z": -251
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
         "x": -134,
         "y": 81,
         "z": -250
       },
       {
-        "hovertext": "Chest with 5 items",
-        "text": "Chest with 5 items",
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
         "x": -136,
         "y": 87,
         "z": -247
       },
       {
-        "hovertext": "Chest with 2 items",
-        "text": "Chest with 2 items",
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
         "x": -136,
         "y": 85,
         "z": -248
       },
       {
-        "hovertext": "Chest with 12 items",
-        "text": "Chest with 12 items",
+        "hovertext": "Chest with 3 items",
+        "text": "Chest with 3 items",
         "x": -140,
         "y": 85,
         "z": -244
@@ -7133,8 +10493,8 @@ var markersDB={
         "z": -248
       },
       {
-        "hovertext": "Chest with 3 items",
-        "text": "Chest with 3 items",
+        "hovertext": "Chest with 4 items",
+        "text": "Chest with 4 items",
         "x": -143,
         "y": 85,
         "z": -248
@@ -7161,8 +10521,8 @@ var markersDB={
         "z": -252
       },
       {
-        "hovertext": "Chest with 4 items",
-        "text": "Chest with 4 items",
+        "hovertext": "Chest with 5 items",
+        "text": "Chest with 5 items",
         "x": -142,
         "y": 87,
         "z": -255
@@ -7200,138 +10560,131 @@ var markersDB={
         "text": "Chest with 0 items",
         "x": -136,
         "y": 80,
-        "z": -250
-      },
-      {
-        "hovertext": "Chest with 27 items",
-        "text": "Chest with 27 items",
-        "x": -136,
-        "y": 78,
-        "z": -251
-      },
-      {
-        "hovertext": "Chest with 11 items",
-        "text": "Chest with 11 items",
-        "x": -136,
-        "y": 86,
-        "z": -247
-      },
-      {
-        "hovertext": "Chest with 1 items",
-        "text": "Chest with 1 items",
-        "x": -140,
-        "y": 78,
-        "z": -251
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": -142,
-        "y": 88,
-        "z": -246
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": -143,
-        "y": 88,
-        "z": -246
-      },
-      {
-        "hovertext": "Chest with 3 items",
-        "text": "Chest with 3 items",
-        "x": -142,
-        "y": 88,
-        "z": -254
-      },
-      {
-        "hovertext": "Chest with 3 items",
-        "text": "Chest with 3 items",
-        "x": -142,
-        "y": 86,
-        "z": -255
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": -134,
-        "y": 79,
-        "z": -250
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": -132,
-        "y": 79,
-        "z": -250
-      },
-      {
-        "hovertext": "Chest with 4 items",
-        "text": "Chest with 4 items",
-        "x": -136,
-        "y": 85,
-        "z": -247
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": -136,
-        "y": 79,
-        "z": -250
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": -143,
-        "y": 87,
-        "z": -246
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": -142,
-        "y": 87,
-        "z": -246
-      },
-      {
-        "hovertext": "Chest with 27 items",
-        "text": "Chest with 27 items",
-        "x": -143,
-        "y": 87,
-        "z": -250
-      },
-      {
-        "hovertext": "Chest with 27 items",
-        "text": "Chest with 27 items",
-        "x": -142,
-        "y": 87,
-        "z": -250
-      },
-      {
-        "hovertext": "Chest with 16 items",
-        "text": "Chest with 16 items",
-        "x": -142,
-        "y": 87,
-        "z": -254
-      },
-      {
-        "hovertext": "Chest with 14 items",
-        "text": "Chest with 14 items",
-        "x": -142,
-        "y": 85,
-        "z": -255
-      },
-      {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
-        "x": -132,
-        "y": 78,
         "z": -250
       },
       {
         "hovertext": "Chest with 22 items",
         "text": "Chest with 22 items",
         "x": -136,
+        "y": 86,
+        "z": -247
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -140,
+        "y": 78,
+        "z": -251
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -142,
+        "y": 88,
+        "z": -246
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -143,
+        "y": 88,
+        "z": -246
+      },
+      {
+        "hovertext": "Chest with 10 items",
+        "text": "Chest with 10 items",
+        "x": -142,
+        "y": 88,
+        "z": -254
+      },
+      {
+        "hovertext": "Chest with 5 items",
+        "text": "Chest with 5 items",
+        "x": -142,
+        "y": 86,
+        "z": -255
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -134,
+        "y": 79,
+        "z": -250
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -132,
+        "y": 79,
+        "z": -250
+      },
+      {
+        "hovertext": "Chest with 3 items",
+        "text": "Chest with 3 items",
+        "x": -136,
+        "y": 85,
+        "z": -247
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -136,
+        "y": 79,
+        "z": -250
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -143,
+        "y": 87,
+        "z": -246
+      },
+      {
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
+        "x": -142,
+        "y": 87,
+        "z": -246
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -143,
+        "y": 87,
+        "z": -250
+      },
+      {
+        "hovertext": "Chest with 5 items",
+        "text": "Chest with 5 items",
+        "x": -142,
+        "y": 87,
+        "z": -250
+      },
+      {
+        "hovertext": "Chest with 17 items",
+        "text": "Chest with 17 items",
+        "x": -142,
+        "y": 87,
+        "z": -254
+      },
+      {
+        "hovertext": "Chest with 19 items",
+        "text": "Chest with 19 items",
+        "x": -142,
+        "y": 85,
+        "z": -255
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -132,
+        "y": 78,
+        "z": -250
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -136,
         "y": 78,
         "z": -250
       },
@@ -7343,15 +10696,15 @@ var markersDB={
         "z": -250
       },
       {
-        "hovertext": "Chest with 20 items",
-        "text": "Chest with 20 items",
-        "x": -138,
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -140,
         "y": 78,
         "z": -250
       },
       {
-        "hovertext": "Chest with 2 items",
-        "text": "Chest with 2 items",
+        "hovertext": "Chest with 21 items",
+        "text": "Chest with 21 items",
         "x": -138,
         "y": 88,
         "z": -245
@@ -7364,43 +10717,43 @@ var markersDB={
         "z": -246
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
         "x": -142,
         "y": 86,
         "z": -246
       },
       {
-        "hovertext": "Chest with 9 items",
-        "text": "Chest with 9 items",
+        "hovertext": "Chest with 8 items",
+        "text": "Chest with 8 items",
         "x": -140,
         "y": 88,
         "z": -245
       },
       {
-        "hovertext": "Chest with 1 items",
-        "text": "Chest with 1 items",
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
         "x": -143,
         "y": 86,
         "z": -250
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
+        "hovertext": "Chest with 8 items",
+        "text": "Chest with 8 items",
         "x": -142,
         "y": 86,
         "z": -250
       },
       {
-        "hovertext": "Chest with 2 items",
-        "text": "Chest with 2 items",
+        "hovertext": "Chest with 3 items",
+        "text": "Chest with 3 items",
         "x": -142,
         "y": 86,
         "z": -254
       },
       {
-        "hovertext": "Chest with 4 items",
-        "text": "Chest with 4 items",
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
         "x": -140,
         "y": 87,
         "z": -245
@@ -7413,8 +10766,8 @@ var markersDB={
         "z": -245
       },
       {
-        "hovertext": "Chest with 10 items",
-        "text": "Chest with 10 items",
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
         "x": -137,
         "y": 85,
         "z": -254
@@ -7427,8 +10780,8 @@ var markersDB={
         "z": -246
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
         "x": -142,
         "y": 85,
         "z": -246
@@ -7441,29 +10794,29 @@ var markersDB={
         "z": -250
       },
       {
-        "hovertext": "Chest with 1 items",
-        "text": "Chest with 1 items",
+        "hovertext": "Chest with 11 items",
+        "text": "Chest with 11 items",
         "x": -142,
         "y": 85,
         "z": -250
       },
       {
-        "hovertext": "Chest with 14 items",
-        "text": "Chest with 14 items",
+        "hovertext": "Chest with 18 items",
+        "text": "Chest with 18 items",
         "x": -142,
         "y": 85,
         "z": -254
       },
       {
-        "hovertext": "Chest with 22 items",
-        "text": "Chest with 22 items",
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
         "x": -140,
         "y": 88,
         "z": -244
       },
       {
-        "hovertext": "Chest with 12 items",
-        "text": "Chest with 12 items",
+        "hovertext": "Chest with 11 items",
+        "text": "Chest with 11 items",
         "x": -136,
         "y": 88,
         "z": -248
@@ -7490,8 +10843,8 @@ var markersDB={
         "z": -245
       },
       {
-        "hovertext": "Chest with 2 items",
-        "text": "Chest with 2 items",
+        "hovertext": "Chest with 4 items",
+        "text": "Chest with 4 items",
         "x": -143,
         "y": 88,
         "z": -248
@@ -7511,8 +10864,8 @@ var markersDB={
         "z": -251
       },
       {
-        "hovertext": "Chest with 25 items",
-        "text": "Chest with 25 items",
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
         "x": -138,
         "y": 85,
         "z": -245
@@ -7532,15 +10885,15 @@ var markersDB={
         "z": -251
       },
       {
-        "hovertext": "Chest with 19 items",
-        "text": "Chest with 19 items",
+        "hovertext": "Chest with 3 items",
+        "text": "Chest with 3 items",
         "x": -140,
         "y": 87,
         "z": -244
       },
       {
-        "hovertext": "Chest with 5 items",
-        "text": "Chest with 5 items",
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
         "x": -136,
         "y": 87,
         "z": -248
@@ -7560,22 +10913,22 @@ var markersDB={
         "z": -249
       },
       {
-        "hovertext": "Chest with 6 items",
-        "text": "Chest with 6 items",
+        "hovertext": "Chest with 18 items",
+        "text": "Chest with 18 items",
         "x": -138,
         "y": 87,
         "z": -244
       },
       {
-        "hovertext": "Chest with 4 items",
-        "text": "Chest with 4 items",
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
         "x": -136,
         "y": 85,
         "z": -253
       },
       {
-        "hovertext": "Chest with 12 items",
-        "text": "Chest with 12 items",
+        "hovertext": "Chest with 20 items",
+        "text": "Chest with 20 items",
         "x": -143,
         "y": 87,
         "z": -248
@@ -7586,6 +10939,62 @@ var markersDB={
         "x": -142,
         "y": 87,
         "z": -248
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -116,
+        "y": 65,
+        "z": -300
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -117,
+        "y": 65,
+        "z": -300
+      },
+      {
+        "hovertext": "Chest with 7 items",
+        "text": "Chest with 7 items",
+        "x": -116,
+        "y": 64,
+        "z": -298
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -116,
+        "y": 64,
+        "z": -299
+      },
+      {
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
+        "x": -117,
+        "y": 64,
+        "z": -298
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -117,
+        "y": 64,
+        "z": -299
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -124,
+        "y": 14,
+        "z": -250
+      },
+      {
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
+        "x": -123,
+        "y": 14,
+        "z": -250
       },
       {
         "hovertext": "Chest with 0 items",
@@ -7602,15 +11011,15 @@ var markersDB={
         "z": -292
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
         "x": -106,
         "y": 66,
         "z": -291
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
         "x": -107,
         "y": 66,
         "z": -291
@@ -7651,43 +11060,43 @@ var markersDB={
         "z": -278
       },
       {
-        "hovertext": "Chest with 8 items",
-        "text": "Chest with 8 items",
+        "hovertext": "Chest with 11 items",
+        "text": "Chest with 11 items",
         "x": -110,
         "y": 75,
         "z": -267
       },
       {
-        "hovertext": "Chest with 3 items",
-        "text": "Chest with 3 items",
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
         "x": -112,
         "y": 75,
         "z": -267
       },
       {
-        "hovertext": "Chest with 7 items",
-        "text": "Chest with 7 items",
+        "hovertext": "Chest with 6 items",
+        "text": "Chest with 6 items",
         "x": -111,
         "y": 75,
         "z": -267
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
+        "hovertext": "Chest with 8 items",
+        "text": "Chest with 8 items",
         "x": -112,
         "y": 75,
         "z": -272
       },
       {
-        "hovertext": "Chest with 15 items",
-        "text": "Chest with 15 items",
+        "hovertext": "Chest with 12 items",
+        "text": "Chest with 12 items",
         "x": -104,
         "y": 64,
         "z": -233
       },
       {
-        "hovertext": "Chest with 2 items",
-        "text": "Chest with 2 items",
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
         "x": -103,
         "y": 63,
         "z": -229
@@ -7700,8 +11109,8 @@ var markersDB={
         "z": -233
       },
       {
-        "hovertext": "Chest with 7 items",
-        "text": "Chest with 7 items",
+        "hovertext": "Chest with 12 items",
+        "text": "Chest with 12 items",
         "x": -92,
         "y": 65,
         "z": -286
@@ -7721,29 +11130,29 @@ var markersDB={
         "z": -188
       },
       {
-        "hovertext": "Chest with 18 items",
-        "text": "Chest with 18 items",
+        "hovertext": "Chest with 19 items",
+        "text": "Chest with 19 items",
         "x": -78,
         "y": 63,
         "z": -188
       },
       {
-        "hovertext": "Chest with 15 items",
-        "text": "Chest with 15 items",
+        "hovertext": "Chest with 16 items",
+        "text": "Chest with 16 items",
         "x": -78,
         "y": 64,
         "z": -188
       },
       {
-        "hovertext": "Chest with 24 items",
-        "text": "Chest with 24 items",
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
         "x": -65,
         "y": 83,
         "z": -65
       },
       {
-        "hovertext": "Chest with 26 items",
-        "text": "Chest with 26 items",
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
         "x": -65,
         "y": 84,
         "z": -63
@@ -7756,36 +11165,36 @@ var markersDB={
         "z": -64
       },
       {
-        "hovertext": "Chest with 20 items",
-        "text": "Chest with 20 items",
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
         "x": -65,
         "y": 84,
         "z": -64
       },
       {
-        "hovertext": "Chest with 6 items",
-        "text": "Chest with 6 items",
+        "hovertext": "Chest with 10 items",
+        "text": "Chest with 10 items",
         "x": -60,
         "y": 63,
         "z": -221
       },
       {
-        "hovertext": "Chest with 1 items",
-        "text": "Chest with 1 items",
+        "hovertext": "Chest with 5 items",
+        "text": "Chest with 5 items",
         "x": -60,
         "y": 65,
         "z": -219
       },
       {
-        "hovertext": "Chest with 1 items",
-        "text": "Chest with 1 items",
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
         "x": -60,
         "y": 63,
         "z": -219
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
+        "hovertext": "Chest with 3 items",
+        "text": "Chest with 3 items",
         "x": -60,
         "y": 65,
         "z": -223
@@ -7805,50 +11214,50 @@ var markersDB={
         "z": -221
       },
       {
-        "hovertext": "Chest with 1 items",
-        "text": "Chest with 1 items",
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
         "x": -57,
         "y": 63,
         "z": -98
+      },
+      {
+        "hovertext": "Chest with 20 items",
+        "text": "Chest with 20 items",
+        "x": -57,
+        "y": 63,
+        "z": -97
       },
       {
         "hovertext": "Chest with 22 items",
         "text": "Chest with 22 items",
         "x": -57,
         "y": 63,
-        "z": -97
-      },
-      {
-        "hovertext": "Chest with 24 items",
-        "text": "Chest with 24 items",
-        "x": -57,
-        "y": 63,
         "z": -92
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
         "x": -63,
         "y": 83,
         "z": -65
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
         "x": -64,
         "y": 83,
         "z": -65
       },
       {
-        "hovertext": "Chest with 19 items",
-        "text": "Chest with 19 items",
+        "hovertext": "Chest with 7 items",
+        "text": "Chest with 7 items",
         "x": -62,
         "y": 85,
         "z": -59
       },
       {
-        "hovertext": "Chest with 11 items",
-        "text": "Chest with 11 items",
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
         "x": -62,
         "y": 85,
         "z": -61
@@ -8188,6 +11597,20 @@ var markersDB={
         "x": -50,
         "y": 33,
         "z": -4105
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -337,
+        "y": 24,
+        "z": 6140
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -335,
+        "y": 24,
+        "z": 6138
       },
       {
         "hovertext": "Chest",
@@ -8561,8 +11984,8 @@ var markersDB={
         "z": -4086
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
         "x": -1007,
         "y": 91,
         "z": 158
@@ -8582,22 +12005,22 @@ var markersDB={
         "z": 251
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
         "x": -964,
         "y": 78,
         "z": 113
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 7 items",
+        "text": "Chest with 7 items",
         "x": -958,
         "y": 73,
         "z": 91
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 3 items",
+        "text": "Chest with 3 items",
         "x": -955,
         "y": 74,
         "z": 168
@@ -8617,6 +12040,69 @@ var markersDB={
         "z": 170
       },
       {
+        "hovertext": "Chest with 25 items",
+        "text": "Chest with 25 items",
+        "x": -929,
+        "y": 78,
+        "z": 111
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -929,
+        "y": 79,
+        "z": 111
+      },
+      {
+        "hovertext": "Chest with 11 items",
+        "text": "Chest with 11 items",
+        "x": -929,
+        "y": 79,
+        "z": 115
+      },
+      {
+        "hovertext": "Chest with 15 items",
+        "text": "Chest with 15 items",
+        "x": -930,
+        "y": 79,
+        "z": 115
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -938,
+        "y": 77,
+        "z": 126
+      },
+      {
+        "hovertext": "Chest with 4 items",
+        "text": "Chest with 4 items",
+        "x": -939,
+        "y": 77,
+        "z": 126
+      },
+      {
+        "hovertext": "Chest with 12 items",
+        "text": "Chest with 12 items",
+        "x": -943,
+        "y": 78,
+        "z": 122
+      },
+      {
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -928,
+        "y": 78,
+        "z": 111
+      },
+      {
+        "hovertext": "Chest with 14 items",
+        "text": "Chest with 14 items",
+        "x": -928,
+        "y": 79,
+        "z": 111
+      },
+      {
         "hovertext": "Chest",
         "text": "Chest",
         "x": -916,
@@ -8631,11 +12117,382 @@ var markersDB={
         "z": 475
       },
       {
-        "hovertext": "Chest with 12 items",
-        "text": "Chest with 12 items",
+        "hovertext": "Chest with 23 items",
+        "text": "Chest with 23 items",
+        "x": -902,
+        "y": 80,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
+        "x": -900,
+        "y": 82,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -901,
+        "y": 80,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 17 items",
+        "text": "Chest with 17 items",
+        "x": -899,
+        "y": 82,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 11 items",
+        "text": "Chest with 11 items",
+        "x": -902,
+        "y": 82,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 24 items",
+        "text": "Chest with 24 items",
+        "x": -901,
+        "y": 82,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 5 items",
+        "text": "Chest with 5 items",
+        "x": -898,
+        "y": 80,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 19 items",
+        "text": "Chest with 19 items",
+        "x": -897,
+        "y": 80,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
+        "x": -900,
+        "y": 80,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -899,
+        "y": 14,
+        "z": 149
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -898,
+        "y": 82,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 14 items",
+        "text": "Chest with 14 items",
+        "x": -899,
+        "y": 80,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 4 items",
+        "text": "Chest with 4 items",
+        "x": -898,
+        "y": 14,
+        "z": 149
+      },
+      {
+        "hovertext": "Chest with 13 items",
+        "text": "Chest with 13 items",
+        "x": -897,
+        "y": 82,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -902,
+        "y": 85,
+        "z": 151
+      },
+      {
+        "hovertext": "Chest with 9 items",
+        "text": "Chest with 9 items",
+        "x": -902,
+        "y": 85,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 25 items",
+        "text": "Chest with 25 items",
+        "x": -901,
+        "y": 81,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 19 items",
+        "text": "Chest with 19 items",
+        "x": -900,
+        "y": 81,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 24 items",
+        "text": "Chest with 24 items",
+        "x": -902,
+        "y": 81,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 10 items",
+        "text": "Chest with 10 items",
+        "x": -897,
+        "y": 81,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -899,
+        "y": 81,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -898,
+        "y": 81,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -902,
+        "y": 86,
+        "z": 151
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -902,
+        "y": 86,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 22 items",
+        "text": "Chest with 22 items",
+        "x": -894,
+        "y": 81,
+        "z": 137
+      },
+      {
+        "hovertext": "Chest with 20 items",
+        "text": "Chest with 20 items",
+        "x": -895,
+        "y": 80,
+        "z": 137
+      },
+      {
+        "hovertext": "Chest with 17 items",
+        "text": "Chest with 17 items",
+        "x": -893,
+        "y": 81,
+        "z": 137
+      },
+      {
+        "hovertext": "Chest with 26 items",
+        "text": "Chest with 26 items",
+        "x": -894,
+        "y": 80,
+        "z": 137
+      },
+      {
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -896,
+        "y": 81,
+        "z": 137
+      },
+      {
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -895,
+        "y": 81,
+        "z": 137
+      },
+      {
+        "hovertext": "Chest with 26 items",
+        "text": "Chest with 26 items",
+        "x": -896,
+        "y": 80,
+        "z": 137
+      },
+      {
+        "hovertext": "Chest with 18 items",
+        "text": "Chest with 18 items",
+        "x": -891,
+        "y": 80,
+        "z": 137
+      },
+      {
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
+        "x": -893,
+        "y": 80,
+        "z": 137
+      },
+      {
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -892,
+        "y": 81,
+        "z": 137
+      },
+      {
+        "hovertext": "Chest with 25 items",
+        "text": "Chest with 25 items",
+        "x": -892,
+        "y": 80,
+        "z": 137
+      },
+      {
+        "hovertext": "Chest with 24 items",
+        "text": "Chest with 24 items",
+        "x": -891,
+        "y": 81,
+        "z": 137
+      },
+      {
+        "hovertext": "Chest with 9 items",
+        "text": "Chest with 9 items",
+        "x": -894,
+        "y": 81,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 26 items",
+        "text": "Chest with 26 items",
+        "x": -881,
+        "y": 85,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 4 items",
+        "text": "Chest with 4 items",
+        "x": -881,
+        "y": 86,
+        "z": 153
+      },
+      {
+        "hovertext": "Chest with 14 items",
+        "text": "Chest with 14 items",
+        "x": -881,
+        "y": 87,
+        "z": 154
+      },
+      {
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -881,
+        "y": 86,
+        "z": 154
+      },
+      {
+        "hovertext": "Chest with 9 items",
+        "text": "Chest with 9 items",
+        "x": -881,
+        "y": 85,
+        "z": 153
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -881,
+        "y": 87,
+        "z": 155
+      },
+      {
+        "hovertext": "Chest with 6 items",
+        "text": "Chest with 6 items",
+        "x": -881,
+        "y": 86,
+        "z": 152
+      },
+      {
+        "hovertext": "Chest with 10 items",
+        "text": "Chest with 10 items",
+        "x": -881,
+        "y": 85,
+        "z": 154
+      },
+      {
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -881,
+        "y": 86,
+        "z": 155
+      },
+      {
+        "hovertext": "Chest with 5 items",
+        "text": "Chest with 5 items",
+        "x": -881,
+        "y": 85,
+        "z": 155
+      },
+      {
+        "hovertext": "Chest with 10 items",
+        "text": "Chest with 10 items",
+        "x": -874,
+        "y": 64,
+        "z": 284
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -873,
+        "y": 64,
+        "z": 284
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
         "x": -871,
         "y": 61,
         "z": 441
+      },
+      {
+        "hovertext": "Chest with 25 items",
+        "text": "Chest with 25 items",
+        "x": -863,
+        "y": 64,
+        "z": 218
+      },
+      {
+        "hovertext": "Chest with 10 items",
+        "text": "Chest with 10 items",
+        "x": -862,
+        "y": 64,
+        "z": 218
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -862,
+        "y": 63,
+        "z": 281
+      },
+      {
+        "hovertext": "Chest with 18 items",
+        "text": "Chest with 18 items",
+        "x": -863,
+        "y": 63,
+        "z": 281
       },
       {
         "hovertext": "Chest",
@@ -9270,6 +13127,34 @@ var markersDB={
       {
         "hovertext": "Chest",
         "text": "Chest",
+        "x": 316,
+        "y": 53,
+        "z": -950
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 314,
+        "y": 53,
+        "z": -948
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 314,
+        "y": 53,
+        "z": -952
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 312,
+        "y": 53,
+        "z": -950
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
         "x": 415,
         "y": 12,
         "z": -806
@@ -9380,6 +13265,62 @@ var markersDB={
         "z": 1417
       },
       {
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": 165,
+        "y": 56,
+        "z": 1418
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 166,
+        "y": 56,
+        "z": 1410
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 168,
+        "y": 56,
+        "z": 1410
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 169,
+        "y": 56,
+        "z": 1410
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 166,
+        "y": 56,
+        "z": 1418
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 168,
+        "y": 56,
+        "z": 1418
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 169,
+        "y": 56,
+        "z": 1418
+      },
+      {
+        "hovertext": "Chest with 10 items",
+        "text": "Chest with 10 items",
+        "x": 165,
+        "y": 56,
+        "z": 1410
+      },
+      {
         "hovertext": "Chest with 0 items",
         "text": "Chest with 0 items",
         "x": 174,
@@ -9387,8 +13328,8 @@ var markersDB={
         "z": 1424
       },
       {
-        "hovertext": "Chest with 6 items",
-        "text": "Chest with 6 items",
+        "hovertext": "Chest with 7 items",
+        "text": "Chest with 7 items",
         "x": 175,
         "y": 46,
         "z": 1424
@@ -9422,15 +13363,15 @@ var markersDB={
         "z": 1425
       },
       {
-        "hovertext": "Chest with 21 items",
-        "text": "Chest with 21 items",
+        "hovertext": "Chest with 26 items",
+        "text": "Chest with 26 items",
         "x": 176,
         "y": 46,
         "z": 1422
       },
       {
-        "hovertext": "Chest with 15 items",
-        "text": "Chest with 15 items",
+        "hovertext": "Chest with 19 items",
+        "text": "Chest with 19 items",
         "x": 176,
         "y": 46,
         "z": 1423
@@ -9618,15 +13559,15 @@ var markersDB={
         "z": -1460
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
         "x": 711,
         "y": 54,
         "z": -1483
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
         "x": 711,
         "y": 49,
         "z": -1474
@@ -9826,6 +13767,83 @@ var markersDB={
         "x": 1001,
         "y": 52,
         "z": 825
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1051,
+        "y": 22,
+        "z": -1640
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1050,
+        "y": 22,
+        "z": -1644
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1205,
+        "y": 36,
+        "z": -1800
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1206,
+        "y": 36,
+        "z": -1789
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1203,
+        "y": 35,
+        "z": -1784
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1310,
+        "y": 13,
+        "z": -1705
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1325,
+        "y": 25,
+        "z": -1937
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1314,
+        "y": 13,
+        "z": -1711
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1341,
+        "y": 33,
+        "z": -1573
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1436,
+        "y": 65,
+        "z": -1582
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1529,
+        "y": 40,
+        "z": -1923
       },
       {
         "hovertext": "Chest",
@@ -10129,6 +14147,293 @@ var markersDB={
         "z": 1628
       },
       {
+        "hovertext": "Chest with 15 items",
+        "text": "Chest with 15 items",
+        "x": 1816,
+        "y": 83,
+        "z": 16249
+      },
+      {
+        "hovertext": "Chest with 4 items",
+        "text": "Chest with 4 items",
+        "x": 1812,
+        "y": 69,
+        "z": 16269
+      },
+      {
+        "hovertext": "Chest with 12 items",
+        "text": "Chest with 12 items",
+        "x": 1812,
+        "y": 83,
+        "z": 16266
+      },
+      {
+        "hovertext": "Chest with 14 items",
+        "text": "Chest with 14 items",
+        "x": 1814,
+        "y": 94,
+        "z": 16257
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1811,
+        "y": 26,
+        "z": 16290
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1812,
+        "y": 26,
+        "z": 16296
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1835,
+        "y": 74,
+        "z": 16234
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1838,
+        "y": 70,
+        "z": 16262
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1832,
+        "y": 70,
+        "z": 16268
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1838,
+        "y": 70,
+        "z": 16261
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1832,
+        "y": 70,
+        "z": 16267
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1832,
+        "y": 70,
+        "z": 16264
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1830,
+        "y": 70,
+        "z": 16266
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1832,
+        "y": 70,
+        "z": 16265
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1832,
+        "y": 70,
+        "z": 16262
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1830,
+        "y": 70,
+        "z": 16265
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1830,
+        "y": 70,
+        "z": 16262
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1832,
+        "y": 70,
+        "z": 16261
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1830,
+        "y": 70,
+        "z": 16263
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1830,
+        "y": 70,
+        "z": 16260
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1824,
+        "y": 70,
+        "z": 16266
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1830,
+        "y": 70,
+        "z": 16259
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1824,
+        "y": 70,
+        "z": 16265
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1824,
+        "y": 70,
+        "z": 16262
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1824,
+        "y": 70,
+        "z": 16263
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1838,
+        "y": 70,
+        "z": 16270
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1838,
+        "y": 70,
+        "z": 16271
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1838,
+        "y": 70,
+        "z": 16268
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1838,
+        "y": 70,
+        "z": 16267
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1838,
+        "y": 70,
+        "z": 16264
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1838,
+        "y": 70,
+        "z": 16265
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1824,
+        "y": 70,
+        "z": 16260
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1824,
+        "y": 70,
+        "z": 16259
+      },
+      {
+        "hovertext": "Chest with 12 items",
+        "text": "Chest with 12 items",
+        "x": 1831,
+        "y": 83,
+        "z": 16272
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1851,
+        "y": 69,
+        "z": 16258
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1851,
+        "y": 69,
+        "z": 16288
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1880,
+        "y": 22,
+        "z": 16079
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1874,
+        "y": 22,
+        "z": 16082
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1996,
+        "y": 79,
+        "z": 16320
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 2026,
+        "y": 24,
+        "z": 16245
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 2024,
+        "y": 24,
+        "z": 16245
+      },
+      {
         "hovertext": "Chest",
         "text": "Chest",
         "x": 2168,
@@ -10187,6 +14492,13 @@ var markersDB={
       {
         "hovertext": "Chest",
         "text": "Chest",
+        "x": 2356,
+        "y": 23,
+        "z": -723
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
         "x": 2396,
         "y": 53,
         "z": -966
@@ -10211,6 +14523,13 @@ var markersDB={
         "x": 2392,
         "y": 53,
         "z": -966
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 2405,
+        "y": 31,
+        "z": -648
       },
       {
         "hovertext": "Chest",
@@ -10584,8 +14903,8 @@ var markersDB={
         "z": -3740
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 20 items",
+        "text": "Chest with 20 items",
         "x": -503,
         "y": 12,
         "z": 132
@@ -10626,8 +14945,8 @@ var markersDB={
         "z": 241
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 8 items",
+        "text": "Chest with 8 items",
         "x": -314,
         "y": 35,
         "z": 286
@@ -10668,6 +14987,20 @@ var markersDB={
         "z": 37
       },
       {
+        "hovertext": "Chest with 3 items",
+        "text": "Chest with 3 items",
+        "x": -164,
+        "y": 71,
+        "z": 455
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -165,
+        "y": 71,
+        "z": 455
+      },
+      {
         "hovertext": "Chest",
         "text": "Chest",
         "x": -117,
@@ -10701,6 +15034,41 @@ var markersDB={
         "x": -36,
         "y": 66,
         "z": 20
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -243,
+        "y": 17,
+        "z": 6298
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -246,
+        "y": 17,
+        "z": 6301
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -93,
+        "y": 28,
+        "z": 6275
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -65,
+        "y": 33,
+        "z": 6206
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": -65,
+        "y": 33,
+        "z": 6208
       },
       {
         "hovertext": "Chest",
@@ -11130,15 +15498,15 @@ var markersDB={
         "z": 979
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 12 items",
+        "text": "Chest with 12 items",
         "x": -610,
         "y": 49,
         "z": 1004
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 13 items",
+        "text": "Chest with 13 items",
         "x": -620,
         "y": 48,
         "z": 1010
@@ -11151,8 +15519,8 @@ var markersDB={
         "z": 718
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 8 items",
+        "text": "Chest with 8 items",
         "x": -596,
         "y": 47,
         "z": 979
@@ -11655,22 +16023,22 @@ var markersDB={
         "z": 727
       },
       {
-        "hovertext": "Chest with 3 items",
-        "text": "Chest with 3 items",
+        "hovertext": "Chest with 5 items",
+        "text": "Chest with 5 items",
         "x": 25,
         "y": 65,
         "z": -20
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
         "x": 24,
         "y": 65,
         "z": -19
       },
       {
-        "hovertext": "Chest with 0 items",
-        "text": "Chest with 0 items",
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
         "x": 23,
         "y": 65,
         "z": -20
@@ -11690,15 +16058,8 @@ var markersDB={
         "z": -284
       },
       {
-        "hovertext": "Chest with 1 items",
-        "text": "Chest with 1 items",
-        "x": 291,
-        "y": 49,
-        "z": -132
-      },
-      {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
         "x": 290,
         "y": 51,
         "z": -138
@@ -11711,8 +16072,8 @@ var markersDB={
         "z": -122
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
         "x": 335,
         "y": 30,
         "z": -252
@@ -11746,6 +16107,27 @@ var markersDB={
         "z": -431
       },
       {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 437,
+        "y": 63,
+        "z": -178
+      },
+      {
+        "hovertext": "Chest with 14 items",
+        "text": "Chest with 14 items",
+        "x": 439,
+        "y": 63,
+        "z": -163
+      },
+      {
+        "hovertext": "Chest with 5 items",
+        "text": "Chest with 5 items",
+        "x": 440,
+        "y": 63,
+        "z": -163
+      },
+      {
         "hovertext": "Chest",
         "text": "Chest",
         "x": 30,
@@ -11765,6 +16147,97 @@ var markersDB={
         "x": 31,
         "y": 46,
         "z": -2135
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 77,
+        "y": 14,
+        "z": -2059
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 73,
+        "y": 14,
+        "z": -2060
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 301,
+        "y": 13,
+        "z": -2224
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 467,
+        "y": 32,
+        "z": -2184
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 466,
+        "y": 34,
+        "z": -2190
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 477,
+        "y": 48,
+        "z": -2155
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 471,
+        "y": 49,
+        "z": -2146
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 475,
+        "y": 37,
+        "z": -2123
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 485,
+        "y": 37,
+        "z": -2155
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 492,
+        "y": 35,
+        "z": -2139
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 505,
+        "y": 37,
+        "z": -2158
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 500,
+        "y": 35,
+        "z": -2142
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 496,
+        "y": 37,
+        "z": -2117
       },
       {
         "hovertext": "Chest",
@@ -11851,8 +16324,8 @@ var markersDB={
         "z": 1993
       },
       {
-        "hovertext": "Chest with 13 items",
-        "text": "Chest with 13 items",
+        "hovertext": "Chest with 3 items",
+        "text": "Chest with 3 items",
         "x": 302,
         "y": 49,
         "z": 1600
@@ -12070,9 +16543,51 @@ var markersDB={
       {
         "hovertext": "Chest",
         "text": "Chest",
+        "x": 1028,
+        "y": 38,
+        "z": -1500
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1049,
+        "y": 51,
+        "z": -1399
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
         "x": 1069,
         "y": 32,
         "z": -1173
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1095,
+        "y": 14,
+        "z": -1455
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1100,
+        "y": 14,
+        "z": -1452
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1113,
+        "y": 62,
+        "z": -1383
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1291,
+        "y": 34,
+        "z": -1393
       },
       {
         "hovertext": "Chest",
@@ -12231,6 +16746,20 @@ var markersDB={
       {
         "hovertext": "Chest",
         "text": "Chest",
+        "x": 1565,
+        "y": 20,
+        "z": -2007
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1566,
+        "y": 20,
+        "z": -2013
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
         "x": 1605,
         "y": 39,
         "z": 328
@@ -12297,6 +16826,27 @@ var markersDB={
         "x": 1970,
         "y": 55,
         "z": 30
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1719,
+        "y": 13,
+        "z": 16458
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1992,
+        "y": 20,
+        "z": 16468
+      },
+      {
+        "hovertext": "Chest",
+        "text": "Chest",
+        "x": 1993,
+        "y": 20,
+        "z": 16471
       },
       {
         "hovertext": "Chest",
@@ -12629,382 +17179,522 @@ var markersDB={
       }
     ]
   },
-  "Chests1541_a282": {
+  "Chests49b7_fb8f": {
     "created": false,
     "name": "Chests",
     "raw": [
       {
         "hovertext": "Chest",
         "text": "Chest",
-        "x": -147,
-        "y": 36,
-        "z": 747
+        "x": -667,
+        "y": 160,
+        "z": -2849
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -147,
-        "y": 82,
-        "z": 793
-      },
-      {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -145,
-        "y": 82,
-        "z": 791
-      },
-      {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -132,
-        "y": 82,
-        "z": 795
-      },
-      {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -133,
-        "y": 82,
-        "z": 795
+        "hovertext": "Chest with 7 items",
+        "text": "Chest with 7 items",
+        "x": -626,
+        "y": 116,
+        "z": -2807
       },
       {
         "hovertext": "Chest with 6 items",
         "text": "Chest with 6 items",
-        "x": -1,
-        "y": 35,
-        "z": 642
+        "x": -624,
+        "y": 116,
+        "z": -2809
+      },
+      {
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
+        "x": 3,
+        "y": 61,
+        "z": 2
+      },
+      {
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
+        "x": 13,
+        "y": 63,
+        "z": 36
       },
       {
         "hovertext": "Chest with 0 items",
         "text": "Chest with 0 items",
-        "x": 180,
-        "y": 74,
-        "z": 80
+        "x": 952,
+        "y": 118,
+        "z": 1637
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 230,
-        "y": 80,
-        "z": 411
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 952,
+        "y": 142,
+        "z": 1674
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 344,
-        "y": 73,
-        "z": 167
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 980,
+        "y": 118,
+        "z": 1599
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 343,
-        "y": 73,
-        "z": 167
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 984,
+        "y": 114,
+        "z": 1631
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 348,
-        "y": 73,
-        "z": 167
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 986,
+        "y": 114,
+        "z": 1633
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1022,
+        "y": 136,
+        "z": 1638
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 1022,
+        "y": 136,
+        "z": 1640
+      },
+      {
+        "hovertext": "Chest with 12 items",
+        "text": "Chest with 12 items",
+        "x": 355,
+        "y": 60,
+        "z": 1105
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 364,
+        "y": 60,
+        "z": 1133
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 364,
+        "y": 60,
+        "z": 1134
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 364,
+        "y": 60,
+        "z": 1136
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 364,
+        "y": 60,
+        "z": 1137
+      },
+      {
+        "hovertext": "Chest with 4 items",
+        "text": "Chest with 4 items",
+        "x": 352,
+        "y": 63,
+        "z": 1160
+      },
+      {
+        "hovertext": "Chest with 21 items",
+        "text": "Chest with 21 items",
+        "x": 352,
+        "y": 63,
+        "z": 1159
+      },
+      {
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
+        "x": 365,
+        "y": 50,
+        "z": 1154
+      },
+      {
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": 365,
+        "y": 50,
+        "z": 1155
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 357,
+        "y": 58,
+        "z": 1170
+      },
+      {
+        "hovertext": "Chest with 13 items",
+        "text": "Chest with 13 items",
         "x": 356,
-        "y": 80,
-        "z": 167
+        "y": 58,
+        "z": 1170
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 606,
-        "y": 62,
-        "z": -232
+        "hovertext": "Chest with 13 items",
+        "text": "Chest with 13 items",
+        "x": 375,
+        "y": 53,
+        "z": 1150
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -331,
-        "y": 32,
-        "z": -702
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 370,
+        "y": 56,
+        "z": 1137
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 229,
-        "y": 74,
-        "z": 882
+        "hovertext": "Chest with 3 items",
+        "text": "Chest with 3 items",
+        "x": 370,
+        "y": 56,
+        "z": 1138
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -377,
-        "y": 82,
-        "z": -435
+        "hovertext": "Chest with 23 items",
+        "text": "Chest with 23 items",
+        "x": 375,
+        "y": 53,
+        "z": 1149
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -375,
-        "y": 82,
-        "z": -433
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": 368,
+        "y": 57,
+        "z": 1155
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -379,
-        "y": 82,
-        "z": -420
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": 369,
+        "y": 57,
+        "z": 1155
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -379,
-        "y": 82,
-        "z": -421
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": 370,
+        "y": 57,
+        "z": 1155
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -331,
-        "y": 36,
-        "z": -435
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": 371,
+        "y": 57,
+        "z": 1155
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -320,
-        "y": 59,
-        "z": -445
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 372,
+        "y": 57,
+        "z": 1155
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -320,
-        "y": 38,
-        "z": -425
+        "hovertext": "Chest with 11 items",
+        "text": "Chest with 11 items",
+        "x": 373,
+        "y": 57,
+        "z": 1155
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -319,
-        "y": 41,
-        "z": -187
+        "hovertext": "Chest with 10 items",
+        "text": "Chest with 10 items",
+        "x": 373,
+        "y": 56,
+        "z": 1155
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 279,
-        "y": 73,
-        "z": -569
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 376,
+        "y": 50,
+        "z": 1154
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 278,
-        "y": 73,
-        "z": -569
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 372,
+        "y": 58,
+        "z": 1167
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 274,
-        "y": 73,
-        "z": -569
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 376,
+        "y": 50,
+        "z": 1155
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 282,
-        "y": 36,
-        "z": -540
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 373,
+        "y": 58,
+        "z": 1167
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 285,
-        "y": 40,
-        "z": -532
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 368,
+        "y": 56,
+        "z": 1155
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 295,
-        "y": 73,
-        "z": -569
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
+        "x": 369,
+        "y": 56,
+        "z": 1155
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 294,
-        "y": 73,
-        "z": -569
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": 370,
+        "y": 56,
+        "z": 1155
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 300,
-        "y": 36,
-        "z": -566
+        "hovertext": "Chest with 7 items",
+        "text": "Chest with 7 items",
+        "x": 371,
+        "y": 56,
+        "z": 1155
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 299,
-        "y": 36,
-        "z": -566
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 372,
+        "y": 56,
+        "z": 1155
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 290,
-        "y": 73,
-        "z": -569
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": 370,
+        "y": 54,
+        "z": 1181
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 292,
-        "y": 33,
-        "z": -535
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": 370,
+        "y": 53,
+        "z": 1180
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 289,
-        "y": 36,
-        "z": -522
+        "hovertext": "Chest with 17 items",
+        "text": "Chest with 17 items",
+        "x": 370,
+        "y": 54,
+        "z": 1180
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 297,
-        "y": 40,
-        "z": -525
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": 370,
+        "y": 53,
+        "z": 1179
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 314,
-        "y": 40,
-        "z": -554
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": 370,
+        "y": 58,
+        "z": 1191
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -345,
-        "y": 73,
-        "z": 196
+        "hovertext": "Chest with 5 items",
+        "text": "Chest with 5 items",
+        "x": 371,
+        "y": 58,
+        "z": 1191
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -345,
-        "y": 73,
-        "z": 200
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -33,
+        "y": 30,
+        "z": 495
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": -345,
-        "y": 73,
-        "z": 201
+        "hovertext": "Chest with 2 items",
+        "text": "Chest with 2 items",
+        "x": -33,
+        "y": 31,
+        "z": 495
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 7,
-        "y": 82,
-        "z": -355
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -34,
+        "y": 31,
+        "z": 496
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 9,
-        "y": 82,
-        "z": -353
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -34,
+        "y": 30,
+        "z": 503
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 5,
-        "y": 82,
-        "z": -340
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -35,
+        "y": 30,
+        "z": 503
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 5,
-        "y": 82,
-        "z": -341
+        "hovertext": "Chest with 26 items",
+        "text": "Chest with 26 items",
+        "x": -34,
+        "y": 30,
+        "z": 501
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 37,
-        "y": 38,
-        "z": -364
+        "hovertext": "Chest with 1 items",
+        "text": "Chest with 1 items",
+        "x": -34,
+        "y": 30,
+        "z": 500
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 41,
-        "y": 38,
-        "z": -341
+        "hovertext": "Chest with 7 items",
+        "text": "Chest with 7 items",
+        "x": -34,
+        "y": 31,
+        "z": 501
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 37,
-        "y": 59,
-        "z": -344
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -34,
+        "y": 30,
+        "z": 499
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 53,
-        "y": 36,
-        "z": -355
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -34,
+        "y": 31,
+        "z": 500
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 53,
-        "y": 36,
-        "z": -353
+        "hovertext": "Chest with 3 items",
+        "text": "Chest with 3 items",
+        "x": -34,
+        "y": 30,
+        "z": 498
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 61,
-        "y": 59,
-        "z": -341
+        "hovertext": "Chest with 20 items",
+        "text": "Chest with 20 items",
+        "x": -34,
+        "y": 31,
+        "z": 499
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 64,
-        "y": 59,
-        "z": -365
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -34,
+        "y": 30,
+        "z": 497
       },
       {
-        "hovertext": "Chest",
-        "text": "Chest",
-        "x": 179,
-        "y": 85,
-        "z": -334
+        "hovertext": "Chest with 19 items",
+        "text": "Chest with 19 items",
+        "x": -34,
+        "y": 31,
+        "z": 498
+      },
+      {
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -34,
+        "y": 30,
+        "z": 496
+      },
+      {
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -34,
+        "y": 31,
+        "z": 497
+      },
+      {
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -34,
+        "y": 30,
+        "z": 505
+      },
+      {
+        "hovertext": "Chest with 27 items",
+        "text": "Chest with 27 items",
+        "x": -35,
+        "y": 30,
+        "z": 505
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -30,
+        "y": 30,
+        "z": 495
+      },
+      {
+        "hovertext": "Chest with 3 items",
+        "text": "Chest with 3 items",
+        "x": -31,
+        "y": 30,
+        "z": 495
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -32,
+        "y": 30,
+        "z": 495
+      },
+      {
+        "hovertext": "Chest with 0 items",
+        "text": "Chest with 0 items",
+        "x": -32,
+        "y": 31,
+        "z": 495
+      },
+      {
+        "hovertext": "Chest with 3 items",
+        "text": "Chest with 3 items",
+        "x": -30,
+        "y": 30,
+        "z": 497
       }
     ]
   },
-  "Players1552_03f0": {
+  "Players49a6_24cd": {
     "created": false,
     "name": "Players",
     "raw": []
   },
-  "Players1552_2336": {
+  "Players49a6_7280": {
     "created": false,
     "name": "Players",
     "raw": [
@@ -13012,17 +17702,9 @@ var markersDB={
         "hovertext": "Last known location for AnneTrue",
         "icon": "http://overviewer.org/avatar/AnneTrue",
         "text": "Last known location for AnneTrue",
-        "x": 160.38357566951453,
-        "y": 46.0,
-        "z": 1418.9236593659
-      },
-      {
-        "hovertext": "Last known location for MissRubyMae",
-        "icon": "http://overviewer.org/avatar/MissRubyMae",
-        "text": "Last known location for MissRubyMae",
-        "x": -69.86250001192093,
-        "y": 63.0,
-        "z": -193.6564986294001
+        "x": -251.51685082674425,
+        "y": 69.0,
+        "z": 780.8831309798364
       },
       {
         "hovertext": "Last known location for SoreenB",
@@ -13041,12 +17723,20 @@ var markersDB={
         "z": -164.33811853959693
       },
       {
+        "hovertext": "Last known location for Thenixon34",
+        "icon": "http://overviewer.org/avatar/Thenixon34",
+        "text": "Last known location for Thenixon34",
+        "x": -861.0155955361769,
+        "y": 70.0,
+        "z": 124.23298249815451
+      },
+      {
         "hovertext": "Last known location for plscks",
         "icon": "http://overviewer.org/avatar/plscks",
         "text": "Last known location for plscks",
-        "x": 24.846497819533944,
-        "y": 14.0,
-        "z": 2.1270949864255186
+        "x": -21.779646930305255,
+        "y": 63.0,
+        "z": -111.14757595184868
       },
       {
         "hovertext": "Last known location for Darkwingstalker",
@@ -13082,9 +17772,18 @@ var markersDB={
       }
     ]
   },
-  "Players1552_a282": {
+  "Players49a6_fb8f": {
     "created": false,
     "name": "Players",
-    "raw": []
+    "raw": [
+      {
+        "hovertext": "Last known location for MissRubyMae",
+        "icon": "http://overviewer.org/avatar/MissRubyMae",
+        "text": "Last known location for MissRubyMae",
+        "x": -30.174899439518676,
+        "y": 30.5,
+        "z": 499.23253913227524
+      }
+    ]
   }
 };

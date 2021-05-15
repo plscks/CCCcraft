@@ -4,7 +4,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "All Signs",
-      "groupName": "All_Signseab7_2336",
+      "groupName": "All_Signsb652_7280",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     },
@@ -12,15 +12,15 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests",
-      "groupName": "Chests1541_2336",
-      "icon": "images/chest.png",
+      "groupName": "Chests49b7_7280",
+      "icon": "chest.png",
       "showIconInLegend": false
     },
     {
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Players",
-      "groupName": "Players1552_2336",
+      "groupName": "Players49a6_7280",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     }
@@ -30,7 +30,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "All Signs",
-      "groupName": "All_Signseab7_a282",
+      "groupName": "All_Signsb652_24cd",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     },
@@ -38,15 +38,15 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests",
-      "groupName": "Chests1541_a282",
-      "icon": "images/chest.png",
+      "groupName": "Chests49b7_24cd",
+      "icon": "chest.png",
       "showIconInLegend": false
     },
     {
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Players",
-      "groupName": "Players1552_a282",
+      "groupName": "Players49a6_24cd",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     }
@@ -56,7 +56,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "All Signs",
-      "groupName": "All_Signseab7_03f0",
+      "groupName": "All_Signsb652_fb8f",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     },
@@ -64,15 +64,15 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Chests",
-      "groupName": "Chests1541_03f0",
-      "icon": "images/chest.png",
+      "groupName": "Chests49b7_fb8f",
+      "icon": "chest.png",
       "showIconInLegend": false
     },
     {
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Players",
-      "groupName": "Players1552_03f0",
+      "groupName": "Players49a6_fb8f",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     }
